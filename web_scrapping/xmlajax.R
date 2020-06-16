@@ -103,3 +103,14 @@ webpage2 <- read_html(url2)
 View(xml_find_all(webpage2, ".//a"))
 
 View(html_nodes(webpage2, "a") %>% map(xml_attrs) %>% map_df(~as.list(.)))
+
+###### Another Shot ######
+
+url <- "http://nscr.nesdb.go.th/wp-admin/admin-ajax.php?action=wp_ajax_ninja_tables_public_action&table_id=11913&target_action=get-all-data&default_sorting=old_first&skip_rows=0&limit_rows=0&chunk_number=13"
+
+webpage <- read_html(url)
+
+# xml_nodeset
+nodes <- html_nodes(webpage, "a")
+
+########## Instead of XML, try scrapping Table from HTML ##########
