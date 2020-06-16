@@ -10,8 +10,20 @@
 
 # description: Accessing Thai NESDC "open" data that is in AJAX
 
+##### IMPORANT NOTE ABOUT XML ######
+# No two single XML files have to be same dimension or structure. 
+# It is an open-ended, nested data type left to designer unlike dataframes/datasets 
+# that are always two-dimensional, rows by columns. 
+# ******So a generalizable conversion of any XML to df is not possible. ******
+# We need to see your specific XML to tailor accordingly. Show us doc. – Parfait
+# source: https://stackoverflow.com/questions/49784523/how-to-convert-any-xml-file-to-a-data-frame
+#####################################
+
 # load libraries
 library(tidyverse)
+library(xml2)
+library(XML)
+library(rvest)
 
 # reading from URL
 url <- 'http://nscr.nesdb.go.th/thaime-project/'
