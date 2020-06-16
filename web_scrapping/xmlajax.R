@@ -40,3 +40,5 @@ str(webpage)
 # view structure of xml document
 View(xml_structure(webpage))
 
+# potential routes
+webpage %>% html_nodes('div') %>% html_text()
