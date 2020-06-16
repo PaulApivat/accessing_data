@@ -135,3 +135,17 @@ divs %>% html_nodes(xpath = '//*[@id="footable_11913"]') -> tablehead
 # even more specific
 tablehead[[1]]
 
+# why is there "colgroup", but not "tbody"
+html_nodes(tablehead, "colgroup")
+html_nodes(tablehead, "tbody")
+
+#### Another Try
+> url2 <- "http://nscr.nesdb.go.th/wp-admin/admin-ajax.php?action=wp_ajax_ninja_tables_public_action&table_id=11868&target_action=get-all-data&default_sorting=old_first&skip_rows=0&limit_rows=0&chunk_number={chunk}"
+> webpage2 <- read_html(url2)
+> View(webpage2)
+> body <- html_nodes(webpage2, "body")
+a <- html_nodes(body, "a")   # xml_nodeset (1155)
+
+xml_attrs(a[[1]])
+
+p <- html_nodes(webpage2, "p")
