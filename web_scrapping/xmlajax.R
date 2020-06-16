@@ -114,3 +114,14 @@ webpage <- read_html(url)
 nodes <- html_nodes(webpage, "a")
 
 ########## Instead of XML, try scrapping Table from HTML ##########
+url <- "http://nscr.nesdb.go.th/thaime-project/"
+webpage <- read_html(url)
+
+table <- html_nodes(webpage, "table")
+
+divs <- html_nodes(webpage, "div")
+
+# divs[[14]] <div data-id="2514c6a" class="elementor-element elementor-element-251 ...
+
+# this is most specific
+divs %>% html_nodes(xpath = '//*[@data-footable_id="11913"]')
