@@ -123,5 +123,15 @@ divs <- html_nodes(webpage, "div")
 
 # divs[[14]] <div data-id="2514c6a" class="elementor-element elementor-element-251 ...
 
+## copy Xpath
+//*[@id="footable_11913"]
+
 # this is most specific
 divs %>% html_nodes(xpath = '//*[@data-footable_id="11913"]')
+divs %>% html_nodes(xpath = '//*[@id="footable_11913"]')
+
+divs %>% html_nodes(xpath = '//*[@id="footable_11913"]') -> tablehead
+
+# even more specific
+tablehead[[1]]
+
