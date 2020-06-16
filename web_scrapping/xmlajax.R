@@ -21,7 +21,7 @@
 
 # load libraries
 library(tidyverse)
-library(xml2)
+library(xml2)     # main see: 
 library(XML)
 library(rvest)
 
@@ -40,5 +40,37 @@ str(webpage)
 # view structure of xml document
 View(xml_structure(webpage))
 
+# use xml2 package to explore
+
+xml_name(webpage)
+xml_children(webpage)
+
+# these are all LISTS ("xml_nodeset")
+View(xml_find_all(webpage, ".//div"))       #list [129]
+View(html_nodes(webpage, "div"))
+
+View(xml_find_all(webpage, ".//meta"))      #list [11]
+View(xml_find_all(webpage, ".//link"))      #list [24]
+View(xml_find_all(webpage, ".//ul"))        #list [2]
+View(xml_find_all(webpage, ".//li"))        #list [15]
+
+# convert lists ("xml_nodeset") to data.frame, but not helpful
+html_nodes(webpage, "div") %>%
+    map(xml_attrs) %>%
+    map_df(~as.list(.))
+
+html_nodes(webpage, "meta") %>% 
+    map(xml_attrs) %>% 
+    map_df(~as.list(.))
+
 # potential routes
 webpage %>% html_nodes('div') %>% html_text()
+
+# search for SPECIFIC ID
+
+webpage %>% 
+    html_nodes(xpath = '//*[@id="some_id_value"]')
+
+webpage %>% 
+    html_nodes(xpath = '//*[@id="footable_parent_11913"]')
+
