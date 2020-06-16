@@ -29,6 +29,26 @@ library(rvest)
 url <- 'http://nscr.nesdb.go.th/thaime-project/'
 webpage <- read_html(url)
 
+##### Focus on xml2 package ######
+
+# Navigage TREE
+xml_children(webpage)   # below
+xml_siblings(webpage)
+xml_parent(webpage)     # above
+
+# use xpath to jump directly to nodes you're interested in
+# xml_find_one()
+# xml_find_all()
+
+xml_find_all(webpage, ".//div")     # xml_nodeset (129)
+xml_find_all(webpage, ".//head")
+xml_find_all(webpage, ".//body")
+
+
+
+
+
+
 # explore webpage file
 
 # xml_document, xml_node
@@ -74,3 +94,12 @@ webpage %>%
 webpage %>% 
     html_nodes(xpath = '//*[@id="footable_parent_11913"]')
 
+
+# reading from URL (xml version)
+url2 <- "http://nscr.nesdb.go.th/wp-admin/admin-ajax.php?action=wp_ajax_ninja_tables_public_action&table_id=11868&target_action=get-all-data&default_sorting=old_first&skip_rows=0&limit_rows=0&chunk_number={chunk}"
+
+webpage2 <- read_html(url2)
+
+View(xml_find_all(webpage2, ".//a"))
+
+View(html_nodes(webpage2, "a") %>% map(xml_attrs) %>% map_df(~as.list(.)))
