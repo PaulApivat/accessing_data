@@ -50,14 +50,18 @@ install.packages("bigrquery")
 
 # Low-level API
 library(bigrquery)
-
+library(tidyverse)
 
 # DBI
 library(DBI)
 
+
+
 con <- dbConnect(
     bigrquery::bigquery(),
-    project = "jobsbot-276604",
-    dataset = "smartjob",
-    billing = jobsbot-276604
+    project = "project",
+    dataset = "dataset",
+    billing = billing
 )
+
+
