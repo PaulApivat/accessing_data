@@ -227,3 +227,37 @@ df %>%
     )
 
 cor.test(x = df$`user profile clicks`, y = df$`detail expands`)
+
+# And Media Views
+df %>%
+    ggplot(aes(x = `user profile clicks`, y = `media views`)) +
+    geom_point(color = 'red', position = 'jitter') +
+    geom_smooth(method = 'lm', se = FALSE) +
+    theme_minimal() +
+    labs(
+        title = "Relationship between Media Views & User Profile Clicks (r = 0.44)",
+        subtitle = "Dec 15, 2020 - Jan 11, 2021",
+        y = "Media Views",
+        x = "User Profile Clicks",
+        caption = "Data & Graphic: @paulapivat"
+    )
+
+cor.test(x = df$`user profile clicks`, y = df$`media views`)
+
+# And Media Engagements
+df %>%
+    ggplot(aes(x = `user profile clicks`, y = `media engagements`)) +
+    geom_point(color = 'red', position = 'jitter') +
+    geom_smooth(method = 'lm', se = FALSE) +
+    theme_minimal() +
+    labs(
+        title = "Relationship between Media Engagements & User Profile Clicks (r = 0.45)",
+        subtitle = "Dec 15, 2020 - Jan 11, 2021",
+        y = "Media Engagements",
+        x = "User Profile Clicks",
+        caption = "Data & Graphic: @paulapivat"
+    )
+
+cor.test(x = df$`user profile clicks`, y = df$`media engagements`)
+
+
