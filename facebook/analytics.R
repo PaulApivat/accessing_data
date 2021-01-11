@@ -29,9 +29,11 @@
 # Step 7: Click Generate Access Token
 # Step 8: require Rfacebook library, store access token as string, fetch data from Facebook page (see below)
 
-# Next Step: submit saku_analytics for App Review
+# Next Steps: submit saku_analytics for App Review
 # Submission Guide: https://developers.facebook.com/docs/app-review/submission-guide 
+# Permission and Features - must request - https://developers.facebook.com/apps/1517777301728167/app-review/permissions/
 
+# NOTE: Due to Recent Changes in Facebook Graph API - all functions require a working app that has undergone App Review. 
 
 # Packages & Libraries ----
 install.packages('Rfacebook', dependencies = TRUE)
