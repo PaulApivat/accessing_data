@@ -29,4 +29,11 @@ df %>%
     geom_point(color = 'red') +
     geom_smooth(method = 'lm', se = FALSE)
 
-
+# pivot_longer for published, impressions, engagement
+df %>%
+    select(1:4) %>%
+    pivot_longer(cols = 2:4, names_to = 'metrics') %>%
+    ggplot(aes(x = Date, y = value, fill = metrics)) +
+    geom_bar(stat = 'identity', position = 'stack') +
+    # geom_text represents Tweets published only
+    geom_text(aes(label = ifelse(metrics=='Tweets published', value, '')), vjust = -1)
