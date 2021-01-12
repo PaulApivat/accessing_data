@@ -192,3 +192,14 @@ df %>%
 cor.test(x = df$`user profile clicks`, y = df$`media engagements`)
 
 
+# PIVOT LONGER ----
+df %>%
+    select(Date, `user profile clicks`, impressions, engagements, retweets, replies, likes) %>%
+    pivot_longer(cols = 3:7, names_to = 'iv') %>%
+    ggplot(aes(x = `user profile clicks`, y = value)) +
+    geom_point(color = 'red', position = 'jitter') +
+    geom_smooth(method = 'lm', se = FALSE) +
+    facet_wrap(~iv, scales = 'free')
+
+
+
