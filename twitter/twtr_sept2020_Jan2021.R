@@ -201,5 +201,14 @@ df %>%
     geom_smooth(method = 'lm', se = FALSE) +
     facet_wrap(~iv, scales = 'free')
 
+# CORRELELOGRAM ----
+
+# native plot()
+
+df %>%
+    select(`user profile clicks`,3:4, 6:8) %>%
+    plot(pch = 20, cex = 1.5, col="#69b3a2")
+
+
 
 
