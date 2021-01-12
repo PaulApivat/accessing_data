@@ -204,11 +204,43 @@ df %>%
 # CORRELELOGRAM ----
 
 # native plot()
-
 df %>%
-    select(`user profile clicks`,3:4, 6:8) %>%
+    select(`user profile clicks`,3:4, 6:8, 10:12) %>%
     plot(pch = 20, cex = 1.5, col="#69b3a2")
 
+# strongest
+df %>%
+    select(8, 12, 19:20, `user profile clicks`) %>%
+    plot(pch = 20, cex = 1.5, col="#69b3a2")
 
+# moderate
+df %>%
+    select(6:7, 10:11, `user profile clicks`) %>%
+    plot(pch = 20, cex = 1.5, col="#69b3a2")
+
+# GGally
+# Documentation: https://www.rdocumentation.org/packages/GGally/versions/1.5.0/topics/ggpairs
+library(GGally)
+
+
+# GGally, Strongest Related
+df %>%
+    select(8, 12, 19:20, `user profile clicks`) %>%
+    ggpairs(
+        diag = NULL,
+        title = "Strongest Relationships with User Profile Clicks",
+        axisLabels = c("internal"),
+        xlab = "Value"
+    )
+
+# GGally, Least Related
+df %>%
+    select(6:7, 10:11, `user profile clicks`) %>%
+    ggpairs(
+        diag = NULL,
+        title = "Moderate Relationships with User Profile Clicks",
+        axisLabels = c("internal"),
+        xlab = "Value"
+    )
 
 
