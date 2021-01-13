@@ -1,5 +1,6 @@
 library(tidyverse)
 library(lubridate)
+library(GGally)
 
 # load data from September to mid-January
 df1 <- read_csv("./daily_tweet_activity/daily_tweet_activity_metrics_paulapivat_20200901_20201001_en.csv")
@@ -228,7 +229,7 @@ df %>%
     select(8, 12, 19:20, `user profile clicks`) %>%
     ggpairs(
         diag = NULL,
-        title = "Strongest Relationships with User Profile Clicks",
+        title = "Strongest Relationships with User Profile Clicks: Sep 2020 - Jan 2021",
         axisLabels = c("internal"),
         xlab = "Value"
     )
@@ -238,7 +239,7 @@ df %>%
     select(6:7, 10:11, `user profile clicks`) %>%
     ggpairs(
         diag = NULL,
-        title = "Moderate Relationships with User Profile Clicks",
+        title = "Moderate Relationships with User Profile Clicks: Sep 2020 - Jan 2021",
         axisLabels = c("internal"),
         xlab = "Value"
     )
