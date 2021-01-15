@@ -1,0 +1,325 @@
+"Tweet id","Tweet permalink","Tweet text","time","impressions","engagements","engagement rate","retweets","replies","likes","user profile clicks","url clicks","hashtag clicks","detail expands","permalink clicks","app opens","app installs","follows","email tweet","dial phone","media views","media engagements","promoted impressions","promoted engagements","promoted engagement rate","promoted retweets","promoted replies","promoted likes","promoted user profile clicks","promoted url clicks","promoted hashtag clicks","promoted detail expands","promoted permalink clicks","promoted app opens","promoted app installs","promoted follows","promoted email tweet","promoted dial phone","promoted media views","promoted media engagements"
+"1311353535909392384","https://twitter.com/paulapivat/status/1311353535909392384","Day 26:
+
+Brief pause in Python 🐍 work as I make a submission to the Storytelling With Data community
+
+https://t.co/aF4ZzOT3Vb
+
+#66daysofdata","2020-09-30 17:13 +0000","238.0","6.0","0.025210084033613446","0.0","1.0","3.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1311352775574339589","https://twitter.com/paulapivat/status/1311352775574339589","My first submission to the SWD community. A table using {reactable}📦. Check it out! - Employee Engagement Survey: https://t.co/dTGZbvhHpo #SWDCommunity 
+
+#rstats","2020-09-30 17:10 +0000","217.0","8.0","0.03686635944700461","2.0","0.0","1.0","0.0","3.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1311339593044697089","https://twitter.com/paulapivat/status/1311339593044697089","@thomas_mock @rstudio Wow, are we getting closer to native  R-Python interoperability within rstudio?","2020-09-30 16:18 +0000","313.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1311122896148787203","https://twitter.com/paulapivat/status/1311122896148787203","@chrisalbon Looks like the role is closed. Some family members esp. prone 2 sharing non-factual, anything that confirms biases, we have to re-litigate even before getting to the actual content; very exhausting. 
+
+This is so important, i'll work for free. Looking for volunteer opportunities.","2020-09-30 01:57 +0000","40.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1310967885771071488","https://twitter.com/paulapivat/status/1310967885771071488","Day 25 cont:
+
+- key 🔑 learning that Decision Trees 🌲 &amp; Random Forest can be used for both Regression &amp; Classification tasks
+
+#66daysofdata","2020-09-29 15:41 +0000","229.0","10.0","0.043668122270742356","1.0","1.0","7.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1310967883535544320","https://twitter.com/paulapivat/status/1310967883535544320","Day 25:
+
+- submit Decision Tree Classifier model to Titanic comp 🚢(marginally better than gender-as-predictor 😅)
+- re-submit: Random Forest Classifier (marginal &gt; decision tree)
+- calc eval metrics: 5-fold cross validation, confusion matrix, precision, recall
+
+#66daysofdata https://t.co/3zPZ75Bgqi","2020-09-29 15:41 +0000","304.0","27.0","0.08881578947368421","1.0","1.0","7.0","1.0","0.0","0.0","14.0","0.0","0","0","0","0","0","3","3","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1310791370211090433","https://twitter.com/paulapivat/status/1310791370211090433","@ThaiEnquirer some of my family members are prone to these theories....so cringe 🤦","2020-09-29 03:59 +0000","75.0","1.0","0.013333333333333334","0.0","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1310761295981944832","https://twitter.com/paulapivat/status/1310761295981944832","@n_isama our conversation kept getting interrupted with ""ooohhh Lebron....aaawww Lebron!"", and it wasn't just us haha...the whole bar was feelin it.
+
+As for this series; I think it's gonna be competitive. Miami won't be deferential to the 👑 (Riles won't let that happen). Lakers in 7. https://t.co/Me27sNAgHa","2020-09-29 02:00 +0000","27.0","3.0","0.1111111111111111","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","5","2","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1310620820486590465","https://twitter.com/paulapivat/status/1310620820486590465","Day 24:
+
+- complete kaggle's Intro to ML
+- used DecisionTreeRegressor, then ensemble model w/ RandomForestRegressor
+- will switch it up with DecisionTreeClassifier w/ Titanic 🚢 
+
+#66daysofdata https://t.co/XbY0gXlaV3","2020-09-28 16:42 +0000","305.0","10.0","0.03278688524590164","0.0","1.0","7.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","1","1","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1310213238118731777","https://twitter.com/paulapivat/status/1310213238118731777","@n_isama I remember us sitting at a bar in 07 when LBJ dropped 25 consecutive 4th quarter pts on the Pistons in the playoffs. https://t.co/au3Zzo63eE","2020-09-27 13:42 +0000","33.0","2.0","0.06060606060606061","0.0","2.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1310207630132953089","https://twitter.com/paulapivat/status/1310207630132953089","@glenweyl @VitalikButerin Priority voting? (I like intensity too fwiw)","2020-09-27 13:20 +0000","249.0","4.0","0.01606425702811245","0.0","0.0","3.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1310033163855380480","https://twitter.com/paulapivat/status/1310033163855380480","@jillruthcarlson Protocols are not fat and they look great in those jeans 👖","2020-09-27 01:47 +0000","82.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1309890427399544832","https://twitter.com/paulapivat/status/1309890427399544832","Day 23:
+
+- read and implemented Common Loss Functions in 🐍 https://t.co/1qEsHB5VmL
+- review more loops: 
+- 3 ways to use range() - start, stop, step
+- plot colors in scatterplot w loops; 
+- nested loops
+- for-loops &amp; if-statements
+- use continue &amp; break in loops
+
+#66daysofdata","2020-09-26 16:19 +0000","320.0","9.0","0.028125","1.0","1.0","4.0","0.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1309524338073239552","https://twitter.com/paulapivat/status/1309524338073239552","Day 22:
+
+kaggle intro ML
+- complete Basic Data Exploration 
+- fit first ml model
+- model validation
+- underfitting and overfitting
+- review more 🐍 loops (use .items()  loop thru dict and print key-value, loop thru numpy array and 🐼 dataframe with .iterrows())
+
+#66daysofdata","2020-09-25 16:05 +0000","436.0","13.0","0.02981651376146789","1.0","1.0","8.0","0.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1309498644526018563","https://twitter.com/paulapivat/status/1309498644526018563","🤯 https://t.co/ivUvD6GmYt","2020-09-25 14:23 +0000","147.0","1.0","0.006802721088435374","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1309403234230874112","https://twitter.com/paulapivat/status/1309403234230874112","@chrisalbon sign me up for a vlog of production ML infra💯","2020-09-25 08:03 +0000","160.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1309347446200233984","https://twitter.com/paulapivat/status/1309347446200233984","@nathanorenstein @KenJee_DS I enjoyed Jose Portilla’s course on Udemy, here’s a review https://t.co/Dvwvb9OqRD","2020-09-25 04:22 +0000","87.0","2.0","0.022988505747126436","0.0","0.0","2.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1309144346298548228","https://twitter.com/paulapivat/status/1309144346298548228","Check out the {reactable} package here: https://t.co/onGoP7R2aC
+
+And Greg Lin (package developer) here: https://t.co/xEPFflmqm1
+
+#rstats","2020-09-24 14:55 +0000","614.0","36.0","0.05863192182410423","1.0","0.0","0.0","0.0","30.0","1.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1309144338744643584","https://twitter.com/paulapivat/status/1309144338744643584","...that distinction goes to Nuptse. #rstats #TidyTuesday 
+
+https://t.co/LoMDrfCfSr https://t.co/lArgpCRaRH","2020-09-24 14:55 +0000","2051.0","75.0","0.036567528035104824","2.0","1.0","3.0","0.0","5.0","0.0","8.0","0.0","0","0","0","0","0","56","56","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1309144336416665600","https://twitter.com/paulapivat/status/1309144336416665600","For this week's #TidyTuesday I wanted to explore the {reactable} 📦. Huge 🙏 to Greg Lin for the wonderful tutorial. #rstats 
+
+While Everest 🏔️ may be the tallest (and most attempt), it's not the most difficult peak... https://t.co/KDTwWYQ79V","2020-09-24 14:55 +0000","3982.0","284.0","0.07132094424912104","5.0","1.0","26.0","8.0","2.0","2.0","88.0","0.0","0","0","0","0","0","152","152","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1309119489376694273","https://twitter.com/paulapivat/status/1309119489376694273","@hugobowne I think people are off put by the messenger(s), for a variety of reasons, so they feel (wrongly, imo) that they can dismiss the message.","2020-09-24 13:16 +0000","75.0","1.0","0.013333333333333334","0.0","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1308988360959107078","https://twitter.com/paulapivat/status/1308988360959107078","Day 21 cont:
+
+- Biggest learning around method chaining for:
+- filtering
+- selecting
+- pivot long-to-wide
+- for Heatmap and Joint Density Distribution plots
+
+#66daysofdata https://t.co/foKcdMJKbb","2020-09-24 04:35 +0000","422.0","18.0","0.04265402843601896","1.0","1.0","7.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","7","7","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1308988358178283520","https://twitter.com/paulapivat/status/1308988358178283520","Day 21:
+
+- Complete Data Visualization module in Kaggle Learn
+- biggest learning around method chaining to flow from data wrangling into viz (observation: a joy in R, but clunky in 🐍)
+
+notebook code: https://t.co/M9S7yOKgqE
+
+#66daysofdata https://t.co/fdeDDCfkKC","2020-09-24 04:35 +0000","368.0","6.0","0.016304347826086956","1.0","1.0","4.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1308944234016194561","https://twitter.com/paulapivat/status/1308944234016194561","@sehgz @mayortoby good point bro, Sehgal properties! 🧻🧻🧻🧻🧻","2020-09-24 01:39 +0000","36.0","1.0","0.027777777777777776","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1308934231830257664","https://twitter.com/paulapivat/status/1308934231830257664","@sehgz @mayortoby Ppl spray here 😆💦💦💦","2020-09-24 01:00 +0000","39.0","1.0","0.02564102564102564","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1308802760515571714","https://twitter.com/paulapivat/status/1308802760515571714","Day 20:
+
+- complete Distributions (lesson 5) in Data Viz, Kaggle
+
+#66daysofdata https://t.co/RRPG96lR17","2020-09-23 16:17 +0000","365.0","12.0","0.03287671232876712","1.0","1.0","6.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","2","2","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1308593022787940352","https://twitter.com/paulapivat/status/1308593022787940352","Day 19 cont:
+
+- Wrote a note connecting the dots between fundamental python structures and data-handling: https://t.co/VuZVXiWSec
+
+- documenting my review of conditionals and loops in this notebook: https://t.co/5qarOYDWzS
+
+#66daysofdata","2020-09-23 02:24 +0000","356.0","12.0","0.033707865168539325","1.0","1.0","4.0","0.0","2.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1308440884107603968","https://twitter.com/paulapivat/status/1308440884107603968","Day 19:
+
+- data viz w/ seaborn: line charts, bar charts, heatmaps and scatter plot in Kaggle Learn
+- review 🐍 conditionals and loops. 
+- Constructing 🐼 DataFrames using List of Tuples --&gt; mini click moment (looping column names, specific column and rows)
+
+#66daysofdata https://t.co/dcfQ1ye0C4","2020-09-22 16:19 +0000","377.0","15.0","0.03978779840848806","1.0","1.0","5.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","7","7","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1308070585465937920","https://twitter.com/paulapivat/status/1308070585465937920","Day 18:
+
+- quick dive into data visualization with matplotlib 
+- found myself switching back to R to wrangle before quickly using sns.barplot() and sns.heatmap()
+
+#66daysofdata https://t.co/QsWqppb0uS","2020-09-21 15:48 +0000","2711.0","136.0","0.05016599040944301","3.0","1.0","6.0","2.0","0.0","0.0","21.0","0.0","0","0","0","0","0","103","103","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1307723188046946305","https://twitter.com/paulapivat/status/1307723188046946305","Day 17:
+
+- Connecting: List of Dictionaries, List of Tuples, Looping
+- Exploring a couple implementations of Depth First Search
+- Explore Google Colab (as alternative to jupyter notebook)
+
+#66daysofdata https://t.co/SZslAbsZZo","2020-09-20 16:47 +0000","428.0","17.0","0.0397196261682243","1.0","1.0","4.0","0.0","0.0","0.0","3.0","0.0","0","0","0","0","0","8","8","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1307351058788675584","https://twitter.com/paulapivat/status/1307351058788675584","Day 16 cont:
+
+- use enumerate() to get list index + element
+- use %time to calculate CPU time
+- complete kaggle learn (Python) module
+
+#66daysofdata https://t.co/8nh9hEMivA","2020-09-19 16:09 +0000","408.0","14.0","0.03431372549019608","1.0","1.0","4.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","7","7","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1307351056037281793","https://twitter.com/paulapivat/status/1307351056037281793","Day 16:
+
+Review Python concept and picking up tidbits like:
+- f-string  # interpolation
+- .strip().lower()  # chaining funcs to clean
+- writing conditions as one-liners
+- using .input() for # user input
+- looping lists + dictionaries
+
+#66daysofdata","2020-09-19 16:09 +0000","347.0","7.0","0.020172910662824207","1.0","1.0","3.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1306793923826733056","https://twitter.com/paulapivat/status/1306793923826733056","@DataIndependent I'm also a fan of @DaveOnData 's Data Literacy Roadmap - and the concept of a citizen business analyst. Worth checking out: https://t.co/jLGMTypsIm","2020-09-18 03:15 +0000","45.0","8.0","0.17777777777777778","0.0","1.0","2.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","3","3","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1306793213810728960","https://twitter.com/paulapivat/status/1306793213810728960","@DataIndependent I like how the lanes are segmented by skill and appreciate the levels. I just wrapped up a 4-wk module on exploratory data analysis (using R) and using this rubric, we covered Data Manipulation + Visualization (to Level 2) and maybe Statistical Analysis (Level 1).","2020-09-18 03:12 +0000","38.0","4.0","0.10526315789473684","0.0","1.0","1.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1306732926797664256","https://twitter.com/paulapivat/status/1306732926797664256","@DataIndependent A general data skills framework would be interesting indeed 👍","2020-09-17 23:13 +0000","34.0","2.0","0.058823529411764705","0.0","1.0","0.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1306619880670507008","https://twitter.com/paulapivat/status/1306619880670507008","Day 15:
+
+- completed Pandas 
+- started reading 'Python One-Liners' by Christian Mayer (will use to review the topics in the Python &amp; Pandas module I need more practice on)
+
+#66daysofdata https://t.co/2SFC8s1xnW","2020-09-17 15:43 +0000","371.0","8.0","0.0215633423180593","1.0","1.0","3.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","1","1","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1306439403850534912","https://twitter.com/paulapivat/status/1306439403850534912","There is no other profession where you're more frequently reminded of your age, than in teaching. Every year...
+
+Me: Mentions some pop culture reference in class. 
+
+Student(s): I was literally born that exact year. 
+
+Me: 💀","2020-09-17 03:46 +0000","128.0","7.0","0.0546875","0.0","1.0","2.0","0.0","0.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1306286577014853633","https://twitter.com/paulapivat/status/1306286577014853633","Day 14:
+
+- Learned about NumPy's foundational role in the Scientific Python ecosystem
+
+#66daysofdata 
+
+Check out the article here: https://t.co/TSk09bAT9x https://t.co/YRmrUitmTm","2020-09-16 17:39 +0000","452.0","20.0","0.04424778761061947","2.0","2.0","5.0","0.0","0.0","0.0","3.0","0.0","0","0","0","0","0","8","8","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1306256363920654337","https://twitter.com/paulapivat/status/1306256363920654337","@visualisingdata I was humming the theme song while watching this","2020-09-16 15:39 +0000","354.0","5.0","0.014124293785310734","0.0","1.0","2.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1306115759353946112","https://twitter.com/paulapivat/status/1306115759353946112","@HayleyAmie the @ModernDive book got me on my way; it covers statistical inference using R and Tidyverse (free online version). Other than that the #rstats community is very friendly :)","2020-09-16 06:20 +0000","602.0","7.0","0.011627906976744186","1.0","0.0","2.0","1.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1305912600438255616","https://twitter.com/paulapivat/status/1305912600438255616","Day 13:
+
+- Finished Grouping &amp; Sorting in Pandas (&amp; siuba package)
+- Zooming out to read Ch.2 of Hands-On ML w/ Scikit-Learn, Keras &amp; TensorFlow (Geron, 2019), ""End-to-End ML Project""
+
+#66daysofdata","2020-09-15 16:53 +0000","434.0","8.0","0.018433179723502304","1.0","1.0","4.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1305734773017518080","https://twitter.com/paulapivat/status/1305734773017518080","The latest blog post is out! A lot of data-related updates: https://t.co/AVk1EbHmig
+
+#data #datascience #dataanalytics #Rstats #python","2020-09-15 05:06 +0000","130.0","5.0","0.038461538461538464","0.0","0.0","1.0","0.0","4.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1305704357338341376","https://twitter.com/paulapivat/status/1305704357338341376","@willkurt Our capacity to be tribal over anything - sports, politics, programming languages, digital currencies, even food -  never ceases to amaze.","2020-09-15 03:05 +0000","72.0","6.0","0.08333333333333333","0.0","0.0","1.0","3.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1305548418819866625","https://twitter.com/paulapivat/status/1305548418819866625","Day 12:
+
+- start Grouping &amp; Sorting in Pandas (@kaggle learn)
+- getting familiar with apply() to groupby()
+- very excited to stumble upon siuba(小巴) library (ports #dplyr grammar to pandas)  😍 huge thanks to @chowthedog for creating this library🙏
+
+#66daysofdata","2020-09-14 16:46 +0000","423.0","11.0","0.026004728132387706","1.0","1.0","7.0","2.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1305158166221484035","https://twitter.com/paulapivat/status/1305158166221484035","Day 11 continue: 
+
+7. Re-using code, functions
+8. Functions that return a dictionary
+9. using enumerate(), split() in a function
+10. using index() to find the position of a string in an Array
+
+#66daysofdata","2020-09-13 14:55 +0000","375.0","9.0","0.024","1.0","1.0","5.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1305158164472455168","https://twitter.com/paulapivat/status/1305158164472455168","Day 11 continue:
+
+3. assigning result of a .map() and .sum() operation to a Series
+4. use .idxmax(); search another column for correspondence to the highest value using .loc[]
+5. using .loc[] and .iloc[]
+6. creating DataFrame with explicit column and index
+
+#66daysofdata","2020-09-13 14:55 +0000","329.0","8.0","0.0243161094224924","1.0","1.0","5.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1305158162366885893","https://twitter.com/paulapivat/status/1305158162366885893","Day 11:
+
+- complete Summary Functions and Maps in Pandas (kaggle)
+- reviewed concepts I need more practice in:
+
+1. writing custom functions; then apply() to a DataFrame column
+2. use .map() to map through a DataFrame column to find a term
+
+#66daysofdata","2020-09-13 14:55 +0000","316.0","6.0","0.0189873417721519","1.0","1.0","4.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1305008437109993472","https://twitter.com/paulapivat/status/1305008437109993472","5/ Putting it all together with the patchwork 📦
+
+#rstats #TidyTuesday https://t.co/oJAy3PV80X","2020-09-13 05:00 +0000","2239.0","107.0","0.04778919160339437","1.0","0.0","3.0","0.0","2.0","4.0","11.0","0.0","0","0","0","0","0","86","86","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1304999076497252352","https://twitter.com/paulapivat/status/1304999076497252352","4/
+
+Credit to the writers for imbuing the characters with a full range of emotions. #TidyTuesday #RStats #Friends https://t.co/NS13D7q3lZ","2020-09-13 04:23 +0000","570.0","25.0","0.043859649122807015","0.0","1.0","2.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","20","20","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1304999074433609733","https://twitter.com/paulapivat/status/1304999074433609733","3/
+
+When filtered for high views (&gt;28 mil) AND imdb ratings (&gt;8.97), we find pivotal eps in the show's history. 
+
+Take a way these 7 episodes and it's a completely different show. #TidyTuesday #RStats #Friends https://t.co/pwQGUygWD5","2020-09-13 04:23 +0000","2188.0","163.0","0.07449725776965264","1.0","1.0","3.0","2.0","0.0","1.0","59.0","0.0","0","0","0","0","0","96","96","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1304999072374292480","https://twitter.com/paulapivat/status/1304999072374292480","2/ 
+
+The range restriction in imdb ratings prevents outliers from affecting this heat map #TidyTuesday #rstats #Friends https://t.co/1qJYEgPz4C","2020-09-13 04:23 +0000","439.0","11.0","0.025056947608200455","0.0","1.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","9","9","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1304999070327402497","https://twitter.com/paulapivat/status/1304999070327402497","1/ 
+
+Some fun facts on ur fav 90's sitcom.
+
+This heat map plots views per episode. The outliers in season 2 guest stars Julia Roberts and Jean-Claude Van Damme (50+ mil views). 
+
+The series finale also got 50+ mil views👀 #TidyTuesday #RStats https://t.co/wqug2NPlMI","2020-09-13 04:23 +0000","639.0","42.0","0.06572769953051644","0.0","1.0","3.0","1.0","0.0","0.0","19.0","0.0","0","0","0","0","0","18","18","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1304572092705251328","https://twitter.com/paulapivat/status/1304572092705251328","This is why I ❤️ me some Rstudio #RStats https://t.co/QYySCXeBXm","2020-09-12 00:06 +0000","155.0","1.0","0.0064516129032258064","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1304295280037126144","https://twitter.com/paulapivat/status/1304295280037126144","Day 10:
+
+- Complete Creating, Reading and Writing in pandas 🐼
+- Complete Indexing, Selecting &amp; Assigning in pandas 
+- working out when to use native 🐍 or .loc or .iloc 
+- read and write csv in #pandas #python
+
+#66daysofdata","2020-09-11 05:46 +0000","444.0","12.0","0.02702702702702703","3.0","1.0","4.0","0.0","0.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1304085352932548610","https://twitter.com/paulapivat/status/1304085352932548610","Day 9:
+
+- complete Python section in Kaggle Learn
+- starting Pandas 🐼
+- noticing parallels 🐍 &amp; R
+- DataFrame : Series // data frame: vector
+
+#66daysofdata","2020-09-10 15:52 +0000","374.0","7.0","0.01871657754010695","2.0","1.0","2.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1303751276690169856","https://twitter.com/paulapivat/status/1303751276690169856","Day 8: 
+
+- import 'math' and 'numpy' modules; and accessing submodules 
+- connecting 'numpy.random.seed(30)' #python is similar to 'set.seed(30)' in #rstats 
+- looking forward to pandas
+
+#66daysofdata","2020-09-09 17:45 +0000","369.0","8.0","0.02168021680216802","2.0","1.0","4.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1303552613850390530","https://twitter.com/paulapivat/status/1303552613850390530","I think this generalizes beyond programming too. https://t.co/VCUJRRteQQ","2020-09-09 04:35 +0000","119.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1303352221556289536","https://twitter.com/paulapivat/status/1303352221556289536","Day 7:
+
+- Working through Strings and Dictionaries 
+
+#66daysofdata","2020-09-08 15:19 +0000","291.0","6.0","0.020618556701030927","0.0","1.0","4.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1302992765387591681","https://twitter.com/paulapivat/status/1302992765387591681","Day 6: 
+
+-Working through Loops and List Comprehension in Kaggle Learn.
+- bumped into Python's indentation rules (i.e., return False)
+
+#66daysofdata https://t.co/AvYiRrUZLO","2020-09-07 15:30 +0000","315.0","14.0","0.044444444444444446","0.0","1.0","3.0","0.0","0.0","0.0","3.0","0.0","0","0","0","0","0","7","7","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1302944587527323648","https://twitter.com/paulapivat/status/1302944587527323648","@EvaMaeRey @grrrck @KellyBodwin I mean...pedagogically, I can’t ‘not’ use this. Thx so much for sharing 🙏 I’m going to redo my materials, will report back!","2020-09-07 12:19 +0000","74.0","9.0","0.12162162162162163","0.0","0.0","2.0","3.0","0.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1302937568804106243","https://twitter.com/paulapivat/status/1302937568804106243","@EvaMaeRey @grrrck This is so helpful 😀I’m in the process of intro-ing exploratory analysis with dplyr &amp; gglot, and have been screenshotting an actual Rmd file, then copying and pasting into ppt to annotate the concepts like a mad man, so this is exactly what the doctor ordered 🙏🙏","2020-09-07 11:51 +0000","87.0","4.0","0.04597701149425287","0.0","1.0","1.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1302643144593272833","https://twitter.com/paulapivat/status/1302643144593272833","Day 5: 
+
+Continue Lists in jupyter notebook.
+Explore Spyder from Anaconda Navigator. 
+
+#66daysofdata","2020-09-06 16:21 +0000","319.0","3.0","0.009404388714733543","0.0","1.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1302486445706207233","https://twitter.com/paulapivat/status/1302486445706207233","@sunky @SmashingPumpkin I really hope they release a re-issue/re-mastered version.","2020-09-06 05:59 +0000","98.0","3.0","0.030612244897959183","0.0","0.0","3.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1302479724988391424","https://twitter.com/paulapivat/status/1302479724988391424","@EvaMaeRey @grrrck doh! 
+
+just saw the title slide to see {flipbookr} and {xaringan}📦 - going to check it out now; I have a feeling my students are going to love this :)","2020-09-06 05:32 +0000","250.0","8.0","0.032","0.0","1.0","3.0","2.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1302478804099633154","https://twitter.com/paulapivat/status/1302478804099633154","@EvaMaeRey @grrrck This is so cool 😎! 
+
+How did you create your slides where you  incrementally highlight code and the output also incrementally appears on the right?","2020-09-06 05:28 +0000","338.0","5.0","0.014792899408284023","0.0","1.0","1.0","0.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1302257849804845056","https://twitter.com/paulapivat/status/1302257849804845056","Day 4:
+
+Conditionals and lists Kaggle Learn. 
+Getting more comfortable with jupyter notebooks. 
+
+#66daysofdata","2020-09-05 14:50 +0000","295.0","5.0","0.01694915254237288","0.0","1.0","2.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1301862847807238145","https://twitter.com/paulapivat/status/1301862847807238145","@_LeRoiEstMort Thanks! you can find the code here: https://t.co/ygpJjnOH1H","2020-09-04 12:41 +0000","34.0","6.0","0.17647058823529413","0.0","0.0","0.0","0.0","2.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1301859654323122179","https://twitter.com/paulapivat/status/1301859654323122179","Here's the code for anyone interested: https://t.co/ygpJjnx6a9
+
+Still trying to get a circular dendrogram, but the angles of the text label are tricky; tips welcomed 😉","2020-09-04 12:28 +0000","206.0","36.0","0.17475728155339806","0.0","0.0","3.0","0.0","22.0","0.0","11.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1301859176423985154","https://twitter.com/paulapivat/status/1301859176423985154","@DanNdanuko you got it: https://t.co/ygpJjnOH1H","2020-09-04 12:26 +0000","123.0","16.0","0.13008130081300814","0.0","1.0","1.0","0.0","7.0","0.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1301792579541893120","https://twitter.com/paulapivat/status/1301792579541893120","3. Oceania: Contributors to Plant Extinction #rstats #TidyTuesday https://t.co/uZBlxxO98V","2020-09-04 08:01 +0000","2541.0","126.0","0.049586776859504134","2.0","2.0","8.0","1.0","0.0","2.0","26.0","0.0","0","0","0","0","0","85","85","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1301792577415294977","https://twitter.com/paulapivat/status/1301792577415294977","2/ Asia: Contributors to Plant Extinction #rstats #TidyTuesday https://t.co/Tke8jniIn0","2020-09-04 08:01 +0000","2475.0","72.0","0.02909090909090909","3.0","1.0","7.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","59","59","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1301792575389540353","https://twitter.com/paulapivat/status/1301792575389540353","Circling back to #TidyTuesday from a couple weeks back, here's a look at major contributors to plant extinction across N.America, Asia and Oceania. #rstats 
+
+1/ North America: Contributors to Plant Extinction https://t.co/QCds6my8rz","2020-09-04 08:01 +0000","5956.0","656.0","0.11014103425117529","5.0","2.0","49.0","22.0","2.0","6.0","204.0","0.0","0","0","1","0","0","365","365","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1301666799352594432","https://twitter.com/paulapivat/status/1301666799352594432","@BenjaminWolfe What IDE do you use for Python? Ever tempted to use reticulate for #RStats interoperability?","2020-09-03 23:42 +0000","65.0","1.0","0.015384615384615385","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1301488094982541312","https://twitter.com/paulapivat/status/1301488094982541312","Day 3 cont: 
+
+Conclusion: jupyter 📓 launched from terminal with 'anaconda-navigator' command will be my approach for the time being, but am determined to make #rstats #python interoperability work in {reticulate} 📦 will circle back","2020-09-03 11:51 +0000","325.0","5.0","0.015384615384615385","1.0","1.0","2.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1301488093195726848","https://twitter.com/paulapivat/status/1301488093195726848","Day 3: #66DaysOfData
+
+- booleans &amp; conditions in kaggle learn
+- got {reticulate}📦 working then it stopped 😨 
+- saved a jupyter 📓 via anaconda-navigator 🐍 (then desktop GUI froze)
+- tried python extension in VScode 
+- tried PyCharm","2020-09-03 11:51 +0000","372.0","9.0","0.024193548387096774","0.0","1.0","4.0","2.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1301201860964093952","https://twitter.com/paulapivat/status/1301201860964093952","Day 2: #66DaysOfData
+
+- functions, higher-order functions, getting help in 🐍
+- upgrading python 2⃣ -&gt; 3⃣ 😖
+- installing {reticulate} 📦 #rstats","2020-09-02 16:54 +0000","360.0","3.0","0.008333333333333333","0.0","1.0","2.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1300842469836255233","https://twitter.com/paulapivat/status/1300842469836255233","Using #66DaysOfData to add #python to the toolkit. Starting with @kaggle micro courses (as recommended by @KenJee_DS) 
+
+Seen mixed review from #rstats folks, but let's charm some snakes 🐍
+
+Progress posted 👇","2020-09-01 17:06 +0000","2989.0","224.0","0.07494145199063232","1.0","1.0","12.0","17.0","0.0","8.0","185.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1300585722311618561","https://twitter.com/paulapivat/status/1300585722311618561","Adding jheri curls 😂
+he's already a mess, might as well give him some style
+@accidental__aRt 
+ #rstats https://t.co/gFo5fkIi2g","2020-09-01 00:06 +0000","309.0","44.0","0.1423948220064725","0.0","0.0","2.0","2.0","0.0","0.0","2.0","0.0","0","0","0","0","0","38","38","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"

@@ -1,0 +1,362 @@
+"Tweet id","Tweet permalink","Tweet text","time","impressions","engagements","engagement rate","retweets","replies","likes","user profile clicks","url clicks","hashtag clicks","detail expands","permalink clicks","app opens","app installs","follows","email tweet","dial phone","media views","media engagements","promoted impressions","promoted engagements","promoted engagement rate","promoted retweets","promoted replies","promoted likes","promoted user profile clicks","promoted url clicks","promoted hashtag clicks","promoted detail expands","promoted permalink clicks","promoted app opens","promoted app installs","promoted follows","promoted email tweet","promoted dial phone","promoted media views","promoted media engagements"
+"1344624100057071617","https://twitter.com/paulapivat/status/1344624100057071617","@jangiacomelli @svpino Is it okay to use both Poetry and Conda? I started with Conda, but only subsequently, months later, found Poetry.","2020-12-31 12:39 +0000","154.0","3.0","0.01948051948051948","0.0","1.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1344348499534442496","https://twitter.com/paulapivat/status/1344348499534442496","@Josh_Ebner Thank you! Bookmarking this 🔖","2020-12-30 18:23 +0000","13.0","1.0","0.07692307692307693","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1344346706880544769","https://twitter.com/paulapivat/status/1344346706880544769","@Josh_Ebner I think i'm much better at this when operating in the dplyr/ggplot, owing to it's design, rather than python -- any tips on memorizing python for data handling?","2020-12-30 18:16 +0000","37.0","3.0","0.08108108108108109","0.0","1.0","0.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1344346043912052738","https://twitter.com/paulapivat/status/1344346043912052738","Day 36: #66daysofdata
+
+- work through Strings in Python from py4e/FCC: string slicing, concat, search/replace, parsing and extracting https://t.co/r3YqEf0FBZ
+- helped a stranger visualize covid data (hopefully I can share soon🤞)","2020-12-30 18:14 +0000","174.0","8.0","0.04597701149425287","0.0","1.0","3.0","0.0","0.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1344285609079099393","https://twitter.com/paulapivat/status/1344285609079099393","Sometimes I'll copy txt into excel, then save as csv before loading into R. Anyone in #rstats do this? (hopefully i'm not the only one lol)","2020-12-30 14:13 +0000","688.0","14.0","0.020348837209302327","2.0","1.0","1.0","2.0","0.0","1.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1344261633053364224","https://twitter.com/paulapivat/status/1344261633053364224","@Lindsey_design print('Hello👋2⃣0⃣2⃣1⃣')","2020-12-30 12:38 +0000","51.0","1.0","0.0196078431372549","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1344120196538109952","https://twitter.com/paulapivat/status/1344120196538109952","@brian_armstrong Any stats available for hodlers inside vs. outside US?","2020-12-30 03:16 +0000","52.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1344119556722159616","https://twitter.com/paulapivat/status/1344119556722159616","@MiamiHEAT @HowardBeck Make them the same font size","2020-12-30 03:14 +0000","272.0","4.0","0.014705882352941176","0.0","0.0","1.0","1.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1343971531701960704","https://twitter.com/paulapivat/status/1343971531701960704","Day 35: #66daysofdata
+
+- Learn basic Python string operation (py4e, fcc)
+- Read Ch9 Data Sci from Scratch (""Getting Data"")","2020-12-29 17:25 +0000","148.0","2.0","0.013513513513513514","0.0","1.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1343970695819055105","https://twitter.com/paulapivat/status/1343970695819055105","Having created my fair share of infinite loops, I like to avoid while-loops when I can: https://t.co/NFyREWz4Qz","2020-12-29 17:22 +0000","548.0","50.0","0.09124087591240876","0.0","0.0","2.0","0.0","0.0","0.0","6.0","0.0","0","0","0","0","0","42","42","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1343794866069721093","https://twitter.com/paulapivat/status/1343794866069721093","Just about done with the first reading of this book, wow. 
+
+This went from ""read in 1-2 sittings, take notes and apply"" to my 2021 playbook.","2020-12-29 05:43 +0000","103.0","1.0","0.009708737864077669","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1343608888210280448","https://twitter.com/paulapivat/status/1343608888210280448","Day 34: #66daysofdata 
+
+- complete iterations Python patterns (py4e, FCC): while, break, none, loop idioms,
+- learned to source script in Rstudio console: source(~path)
+- learned to run R code in VScode
+- tweak yesterday's dataviz to make it readable:
+https://t.co/Oe3RVLIi8d","2020-12-28 17:24 +0000","206.0","4.0","0.019417475728155338","0.0","1.0","2.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1343576433910693889","https://twitter.com/paulapivat/status/1343576433910693889","prev: https://t.co/zMrBtCPlYZ","2020-12-28 15:15 +0000","138.0","2.0","0.014492753623188406","0.0","0.0","1.0","0.0","1.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1343576430546829313","https://twitter.com/paulapivat/status/1343576430546829313","Always nice to get some helpful feedback on plots, this version orders the countries by Raw index (instead of alphabetically). I think it's more informative and readable:
+
+#rstats #TidyTuesday https://t.co/NvlnhRuMJd","2020-12-28 15:15 +0000","4011.0","226.0","0.05634505110944901","6.0","1.0","10.0","6.0","0.0","5.0","40.0","0.0","0","0","0","0","0","158","158","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1343552011451551744","https://twitter.com/paulapivat/status/1343552011451551744","All exciting, the two that excite me most:
+
+1. creators putting their work directly on global, digital markets
+
+2. individuals owning their identities and personal data online
+
+What a time to be alive. https://t.co/wqU9BvhUsU","2020-12-28 13:38 +0000","133.0","1.0","0.007518796992481203","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1343384402068262912","https://twitter.com/paulapivat/status/1343384402068262912","Cheers @Nicolascole77 https://t.co/xMi1cLGfkQ","2020-12-28 02:32 +0000","1877.0","155.0","0.08257858284496537","1.0","2.0","13.0","7.0","2.0","0.0","21.0","0.0","0","0","0","0","0","109","109","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1343237778545332224","https://twitter.com/paulapivat/status/1343237778545332224","Day 33: #66daysofdata
+
+- exploratory dataviz in R on the Big Mac index
+https://t.co/zMrBtCPlYZ","2020-12-27 16:50 +0000","203.0","3.0","0.014778325123152709","0.0","1.0","2.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1343237430103568384","https://twitter.com/paulapivat/status/1343237430103568384","Closing out the year's final #TidyTuesday with the Big Mac index🍔
+
+code:
+https://t.co/OEyTzYSBcu
+
+#RStats #dataviz https://t.co/mPONohCmmS","2020-12-27 16:48 +0000","3869.0","206.0","0.05324373223055053","4.0","0.0","11.0","5.0","15.0","4.0","21.0","0.0","0","0","0","0","0","146","146","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1343090171852382208","https://twitter.com/paulapivat/status/1343090171852382208","@asta_fish We're pretty good at horror movies here in Thailand 🇹🇭, check out https://t.co/s0lyUg5et3","2020-12-27 07:03 +0000","58.0","4.0","0.06896551724137931","0.0","0.0","2.0","0.0","2.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1342870852421861381","https://twitter.com/paulapivat/status/1342870852421861381","Day 32: #66daysofdata
+
+- published learning on Gradient Descent: https://t.co/Hg59jBnvUg
+- complete Python Iterations: Loop Idioms and More Patterns (py4e, FCC)","2020-12-26 16:32 +0000","203.0","3.0","0.014778325123152709","0.0","1.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1342845499141844992","https://twitter.com/paulapivat/status/1342845499141844992","Details here 👉 https://t.co/otGKnXuibo","2020-12-26 14:51 +0000","88.0","2.0","0.022727272727272728","0.0","0.0","1.0","0.0","1.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1342845496717574144","https://twitter.com/paulapivat/status/1342845496717574144","And I get a kick out of the *From Scratch* aspect of @joelgrus 's book: https://t.co/lqy58elbmp","2020-12-26 14:51 +0000","95.0","3.0","0.031578947368421054","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","2","2","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1342845491483013122","https://twitter.com/paulapivat/status/1342845491483013122","🐍 Python allows you to run multiple iterations to see the results; I found this helpful for developing intuition. https://t.co/b0DtEqzP1q","2020-12-26 14:51 +0000","44.0","3.0","0.06818181818181818","0.0","1.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","1","1","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1342845486227582983","https://twitter.com/paulapivat/status/1342845486227582983","Also helpful was to see it in context of a simple linear regression problem: https://t.co/ObBfUaocjB","2020-12-26 14:51 +0000","32.0","2.0","0.0625","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","1","1","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1342845479990640640","https://twitter.com/paulapivat/status/1342845479990640640","I'd be curious to hear how others transitioning to data science learned gradient descent. I found @aureliengeron  Hands-On ML (ch4) helpful to understand the motivation for gradient descent.","2020-12-26 14:51 +0000","36.0","2.0","0.05555555555555555","0.0","1.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1342845477230788609","https://twitter.com/paulapivat/status/1342845477230788609","It took awhile, but I think i'm Grasping Gradient Descent using Python 👉✍️ @hashnode
+
+#python #2articles1week #pythonbeginner #datascience #machinelearning 
+
+https://t.co/otGKnXuibo","2020-12-26 14:51 +0000","606.0","11.0","0.018151815181518153","3.0","1.0","1.0","2.0","1.0","1.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1342841236705607680","https://twitter.com/paulapivat/status/1342841236705607680","🎉 I have unlocked BRONZE writer's badge for participating in #2Articles1Week @hashnode challenge. 
+
+ https://t.co/RDZ3EoUhHg 
+
+It's your turn 👉 https://t.co/QqkDf0v9J4","2020-12-26 14:34 +0000","110.0","4.0","0.03636363636363636","0.0","0.0","2.0","0.0","2.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1342631200737742848","https://twitter.com/paulapivat/status/1342631200737742848","I got plantar fasciitis from a light jog and I am in awe of professional athletes who routinely play thru this.","2020-12-26 00:39 +0000","109.0","1.0","0.009174311926605505","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1342524692092002304","https://twitter.com/paulapivat/status/1342524692092002304","Day 31: #66daysofdata
+
+- ✍️ jotting some notes down on Gradient Descent; work-in-progress
+
+https://t.co/c8Nz72HSjM","2020-12-25 17:36 +0000","179.0","6.0","0.0335195530726257","0.0","1.0","2.0","0.0","2.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1342163759427506177","https://twitter.com/paulapivat/status/1342163759427506177","Day 30: #66daysofdata
+
+- working through external resources for Gradient Descent including: https://t.co/u0Umd4oCxA
+- 3blue1brown:
+
+https://t.co/pjbnvdG9Nw","2020-12-24 17:42 +0000","210.0","15.0","0.07142857142857142","0.0","1.0","2.0","0.0","0.0","0.0","12.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1342131699597991938","https://twitter.com/paulapivat/status/1342131699597991938","TIL machine learning boils down to minimizing a cost function.
+
+https://t.co/hegWzP25li
+
+h/t @3blue1brown","2020-12-24 15:35 +0000","367.0","3.0","0.008174386920980926","2.0","0.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1342119132913778688","https://twitter.com/paulapivat/status/1342119132913778688","@bhutanisanyam1 I can second @drchuck 's Python for Everyone (py4e) materials on @freeCodeCamp - it's fantastic🤩","2020-12-24 14:45 +0000","542.0","12.0","0.02214022140221402","1.0","0.0","3.0","4.0","0.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1342101253023678465","https://twitter.com/paulapivat/status/1342101253023678465","Great inspiration for the #rstats community! https://t.co/Tx1goybERV","2020-12-24 13:34 +0000","729.0","3.0","0.00411522633744856","2.0","0.0","0.0","0.0","0.0","1.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1342096741688983552","https://twitter.com/paulapivat/status/1342096741688983552","@omarsar0 Browsing thru, I just stumbled upon Dr Rodriguez's Perceptron Lab, which is just the coolest example of applied ML i've seen this year 🙏 thx for sharing!
+
+https://t.co/fwYN5SWpBN","2020-12-24 13:16 +0000","810.0","64.0","0.07901234567901234","0.0","0.0","4.0","1.0","53.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1341965824433614849","https://twitter.com/paulapivat/status/1341965824433614849","@chrisalbon my spotify is retirement-home, honda-odyssey, swing-dance-lessons bad 💀","2020-12-24 04:35 +0000","223.0","2.0","0.008968609865470852","0.0","0.0","1.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1341964582936440832","https://twitter.com/paulapivat/status/1341964582936440832","@therriaultphd @chrisalbon I'm glad i'm not the only swiftie-fangirl lol https://t.co/EebL3T0WBO","2020-12-24 04:31 +0000","52.0","6.0","0.11538461538461539","0.0","0.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","4","4","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1341893860239179776","https://twitter.com/paulapivat/status/1341893860239179776","@ramit The second book is a pun right?","2020-12-23 23:50 +0000","73.0","3.0","0.0410958904109589","0.0","0.0","0.0","1.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1341787042796072960","https://twitter.com/paulapivat/status/1341787042796072960","Day 29: #66daysofdata
+
+- working through gradient descent
+- implement code in Hands-on ML (ch4) 
+- implement code for Gradient Descent vs Normal Equation for regression problems https://t.co/dwttKGI3m9","2020-12-23 16:45 +0000","196.0","5.0","0.025510204081632654","0.0","1.0","2.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1341435035165945858","https://twitter.com/paulapivat/status/1341435035165945858","Day 28: #66daysofdata
+
+- active poetry for existing 🐍 project, ✍️ about installing, placing .venv directory for project, launching virtual env https://t.co/VbwAMMZ5hk
+- py4e/FCC: Definite loops and Loop Idioms
+- read Hands on ML ch 4 Training Models (Gradient Descent)","2020-12-22 17:26 +0000","194.0","6.0","0.030927835051546393","0.0","1.0","3.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1341208661096427521","https://twitter.com/paulapivat/status/1341208661096427521","@swyx @ShaneAParrish @bjfogg thank you for the inspiration!","2020-12-22 02:27 +0000","35.0","1.0","0.02857142857142857","0.0","0.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1341197427173277696","https://twitter.com/paulapivat/status/1341197427173277696","@ShaneAParrish @swyx for Learning in Public, Luck Surface Areas and No Zero Days; @bjfogg for Tiny Habits","2020-12-22 01:42 +0000","167.0","18.0","0.10778443113772455","0.0","1.0","0.0","17.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1341076001510440962","https://twitter.com/paulapivat/status/1341076001510440962","Day 26-27: #66daysofdata
+
+- work through intermediate expression, conditional structures, python funct, loops and iterations, definite loops (py4e, FreeCodeCamp) https://t.co/sOaoPShmvU
+- install Poetry dependency management in 🐍, will work on proper vscode integration","2020-12-21 17:40 +0000","171.0","3.0","0.017543859649122806","0.0","1.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1340869324920131584","https://twitter.com/paulapivat/status/1340869324920131584","Time and time again, this has been my experience. https://t.co/aFMXsU7HnR","2020-12-21 03:58 +0000","142.0","6.0","0.04225352112676056","1.0","0.0","1.0","0.0","0.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1340860577220968451","https://twitter.com/paulapivat/status/1340860577220968451","@saronyitbarek Communication specifically: 1. On boarding junior dev, 2. Giving / receiving feedback, 3. Comms about work process, 4. Comms expectations","2020-12-21 03:24 +0000","115.0","1.0","0.008695652173913044","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1340810996810543105","https://twitter.com/paulapivat/status/1340810996810543105","@dickiebush @Nicolascole77 I just joined!","2020-12-21 00:07 +0000","147.0","8.0","0.05442176870748299","0.0","0.0","4.0","4.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1340363589870211075","https://twitter.com/paulapivat/status/1340363589870211075","Day 25: #66daysofdata
+
+- read through Data Science from Scratch ch8 &amp; implemented code https://t.co/sg1eiyB3JW
+
+- working through estimating gradient single data pt -&gt; whole dataset.","2020-12-19 18:29 +0000","203.0","4.0","0.019704433497536946","0.0","1.0","2.0","0.0","1.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1340134649784201221","https://twitter.com/paulapivat/status/1340134649784201221","@SteveStuWill Scenes like this make me wonder how we, and all *this*, evolved from single-cell organisms (and the odds that a variation of this exists on another planet).","2020-12-19 03:19 +0000","214.0","1.0","0.004672897196261682","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1340133873628299264","https://twitter.com/paulapivat/status/1340133873628299264","@santiviquez congrats Santiago!","2020-12-19 03:16 +0000","88.0","5.0","0.056818181818181816","0.0","1.0","1.0","3.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339991469235421184","https://twitter.com/paulapivat/status/1339991469235421184","Day 24: #66daysofdata
+
+- wrote a mini-tutorial on using the {sunburstR} package to visualize nested data https://t.co/mC2JGWGCYz","2020-12-18 17:50 +0000","214.0","9.0","0.04205607476635514","0.0","1.0","3.0","0.0","3.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339980173882454017","https://twitter.com/paulapivat/status/1339980173882454017","@JackRaifer @KenJee_DS @LinkedIn Great post! 
+
+I'm trying to wrap my head around gradient descent right now and my calculus is so rusty I need a tetanus shot.","2020-12-18 17:05 +0000","45.0","5.0","0.1111111111111111","0.0","1.0","2.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339955652844605441","https://twitter.com/paulapivat/status/1339955652844605441","@BenSimmons25 @dmorey 🚨@ChrisRyan77","2020-12-18 15:28 +0000","264.0","1.0","0.003787878787878788","0.0","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339942708211642370","https://twitter.com/paulapivat/status/1339942708211642370","@seed_planter @rstatstweet I've done ##Final##, then ##FINAL##, then ##FINALFINAL## - 😅","2020-12-18 14:36 +0000","37.0","3.0","0.08108108108108109","0.0","1.0","1.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339938291852877827","https://twitter.com/paulapivat/status/1339938291852877827","I see you @BillSimmons flexin on everyone getting @BarackObama on your pod 👀💪🎙️","2020-12-18 14:19 +0000","114.0","2.0","0.017543859649122806","0.0","0.0","0.0","2.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339933039300755456","https://twitter.com/paulapivat/status/1339933039300755456","Exploring nested data with sunburst plots in R from @hashnode
+
+#2articles1week #dataviz #datascience 
+
+https://t.co/w4hQVvsyy5","2020-12-18 13:58 +0000","84.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339858687532224514","https://twitter.com/paulapivat/status/1339858687532224514","Check out the interactive version on RPubs @rstudio 
+
+#rstats
+
+https://t.co/PEdmJMwNug","2020-12-18 09:02 +0000","497.0","10.0","0.02012072434607646","1.0","0.0","2.0","0.0","2.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339858685321859072","https://twitter.com/paulapivat/status/1339858685321859072","If you can keep the inner layers to be between 5-6 categories/factors, you can choose a suitable color palette. Here I try to distinguish between Africa and Asia using different palettes. 
+
+#rstats https://t.co/Y3UfouMCYf","2020-12-18 09:02 +0000","596.0","28.0","0.04697986577181208","1.0","1.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","25","25","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339858680825573376","https://twitter.com/paulapivat/status/1339858680825573376","🔑 The key is to keep the inner most 2 layers of the plot as minimal as possible. For the BBC's top-100 women list, instead of 65 separate countries, I grouped them into 6 continents, which made it easier to visualize.","2020-12-18 09:02 +0000","66.0","1.0","0.015151515151515152","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339858678443167745","https://twitter.com/paulapivat/status/1339858678443167745","Building on last week's #TidyTuesday 
+
+I made a quick tutorial for anyone who wants to get caught up on sunburst plots using {sunburstR} 📦
+
+#rstats 
+
+https://t.co/xJZFsPULcK","2020-12-18 09:02 +0000","2885.0","46.0","0.015944540727902946","3.0","1.0","3.0","0.0","2.0","0.0","34.0","0.0","0","0","0","0","0","3","3","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339814020740644865","https://twitter.com/paulapivat/status/1339814020740644865","The major difference between this bull run and 2017 is that no one mentions the white paper anymore (unfortunately), so here's a link:
+
+https://t.co/cufQXo8HgQ","2020-12-18 06:05 +0000","97.0","6.0","0.061855670103092786","0.0","0.0","1.0","2.0","2.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339757781692239872","https://twitter.com/paulapivat/status/1339757781692239872","@Melt_Dem @n_isama looks like your going to have tons of job opportunities in cybersecurity","2020-12-18 02:22 +0000","710.0","6.0","0.008450704225352112","0.0","0.0","2.0","1.0","1.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339750605590425600","https://twitter.com/paulapivat/status/1339750605590425600","@etalkCTV hey @Giannis_An34 are you going to make a cameo?!","2020-12-18 01:53 +0000","168.0","4.0","0.023809523809523808","0.0","0.0","0.0","4.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339617747634774016","https://twitter.com/paulapivat/status/1339617747634774016","Day 23: #66daysofdata
+
+- Read up on Gradient Descent (Data Sci from Scratch, ch8)
+- Covering my bases with Python for Everybody, work thru Intermediate expressions and conditionals on FCC
+- ✍️ drafting Rmarkdown doc on {sunburstR} 📦 wip
+- checking out https://t.co/YUVyCrZ7GU","2020-12-17 17:05 +0000","216.0","6.0","0.027777777777777776","0.0","1.0","2.0","0.0","1.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339537283301568512","https://twitter.com/paulapivat/status/1339537283301568512","For code and more detailed explanations, check out this post 👉 
+
+https://t.co/xxNA6JwmyU","2020-12-17 11:45 +0000","88.0","4.0","0.045454545454545456","0.0","0.0","1.0","1.0","2.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339537279866454016","https://twitter.com/paulapivat/status/1339537279866454016","All facilitated with code. Sure beats just relying on equations and imprecise drawings:
+#statstwitter https://t.co/3OgSx6h7hl","2020-12-17 11:45 +0000","320.0","47.0","0.146875","1.0","1.0","0.0","0.0","0.0","0.0","28.0","0.0","0","0","0","0","0","17","17","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339537274761986049","https://twitter.com/paulapivat/status/1339537274761986049","And I find it helpful to see 👀 what an increase in Power to detect type2 error means https://t.co/TkVvgwlNee","2020-12-17 11:45 +0000","119.0","3.0","0.025210084033613446","0.0","1.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","1","1","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339537269598736384","https://twitter.com/paulapivat/status/1339537269598736384","You can get an intuition for type1 / type2 error as the distribution shifts out of certain probability intervals. https://t.co/y3kfzINmFs","2020-12-17 11:45 +0000","53.0","5.0","0.09433962264150944","0.0","1.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","3","3","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339537263902957569","https://twitter.com/paulapivat/status/1339537263902957569","You can set and then see certain thresholds and calculate the probability of falling on either side. And then create intervals. https://t.co/mLmT5ad5Xx","2020-12-17 11:45 +0000","48.0","9.0","0.1875","0.0","1.0","0.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","6","6","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339537258005721088","https://twitter.com/paulapivat/status/1339537258005721088","But then actually running those experiments multiple times helps you see how the distribution if formed: https://t.co/nJaQuhvadH","2020-12-17 11:45 +0000","49.0","7.0","0.14285714285714285","0.0","1.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","5","5","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339537252997713922","https://twitter.com/paulapivat/status/1339537252997713922","Visualizing a distribution helps to clarify a bernoulli experiment, summed into binomial distributions. https://t.co/q6dkyYHQTG","2020-12-17 11:45 +0000","61.0","7.0","0.11475409836065574","0.0","1.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","5","5","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339537248862158848","https://twitter.com/paulapivat/status/1339537248862158848","This year i've learned that #python / #rstats can be a pretty effective vehicle for refreshing statistics foundations. 
+
+The flip of a coin is often used to highlight concepts in probability, distributions and hypothesis testing.","2020-12-17 11:45 +0000","992.0","54.0","0.05443548387096774","5.0","2.0","6.0","4.0","0.0","0.0","35.0","0.0","0","0","0","0","0","2","2","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339467628209872896","https://twitter.com/paulapivat/status/1339467628209872896","@Notawful I’ve been out of psych lit for a long time, is Baron &amp; Kenny still taught?","2020-12-17 07:09 +0000","159.0","2.0","0.012578616352201259","0.0","0.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339389312840810496","https://twitter.com/paulapivat/status/1339389312840810496","@netw3rk https://t.co/BzxVw7N8QL","2020-12-17 01:57 +0000","43.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","16","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339249786193514496","https://twitter.com/paulapivat/status/1339249786193514496","Day 22: #66daysofdata
+
+- Published article using 🐍 to demystify 🔮 Hypothesis Testing: https://t.co/xxNA6JwmyU
+- watched more Python for Everybody on FCC","2020-12-16 16:43 +0000","159.0","8.0","0.050314465408805034","0.0","1.0","2.0","0.0","2.0","1.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339177477273309184","https://twitter.com/paulapivat/status/1339177477273309184","To be honest, this would be more palatable for me too. Like we’re all goin to the same after-party together. https://t.co/1Lv7slsUw7","2020-12-16 11:56 +0000","192.0","1.0","0.005208333333333333","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339049174478680064","https://twitter.com/paulapivat/status/1339049174478680064","Internalizing this is like finding out there’s no 🎅 a second time. https://t.co/IuoYRLpiZq","2020-12-16 03:26 +0000","215.0","2.0","0.009302325581395349","0.0","0.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1339003419005075456","https://twitter.com/paulapivat/status/1339003419005075456","@ChelseaParlett Hmmm should I change from coin flip to conical burr? 🪙☕️🤔","2020-12-16 00:24 +0000","902.0","3.0","0.0033259423503325942","0.0","1.0","2.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1338899418775371776","https://twitter.com/paulapivat/status/1338899418775371776","Day 21: #66daysofdata
+
+- ✍️ some thoughts for demystifying Hypothesis Testing, by building intuition for Central Limit Theorem, touching on type 1 and 2 error with python 🐍 ; work-in-prog https://t.co/MHbg4LZ9GV","2020-12-15 17:31 +0000","171.0","6.0","0.03508771929824561","0.0","1.0","2.0","0.0","1.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1338874378910457860","https://twitter.com/paulapivat/status/1338874378910457860","@TrustlessState @HiddenForcesPod @kofinas @BanklessHQ Loved this episode. Very refreshing to hear nuanced discussion around crypto/eth/defi. I do have an important question for @RyanSAdams - u mentioned considering the probability of btc for being the world reserved currency. What *is* that prob and how did you arrive at the figure?","2020-12-15 15:51 +0000","104.0","10.0","0.09615384615384616","0.0","1.0","1.0","0.0","0.0","0.0","8.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1338842002650087424","https://twitter.com/paulapivat/status/1338842002650087424","@laurashin What’s it like being an independent journalist / content creator?","2020-12-15 13:43 +0000","172.0","1.0","0.005813953488372093","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1338822808688709632","https://twitter.com/paulapivat/status/1338822808688709632","I think this applies to learning to code later in life too #rstats #Python https://t.co/iYuCo7GJ0V","2020-12-15 12:26 +0000","918.0","14.0","0.015250544662309368","5.0","0.0","5.0","4.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1338802371187523585","https://twitter.com/paulapivat/status/1338802371187523585","@erich_parpart @SaksithCNA @paritchi @ThammasatUFTD @FreeYOUTHth Smart move","2020-12-15 11:05 +0000","154.0","3.0","0.01948051948051948","0.0","0.0","0.0","1.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1338509656491114497","https://twitter.com/paulapivat/status/1338509656491114497","Day 20: #66daysofdata 
+
+- used sunburstR to create plots to organize the BBC's top 100 influential women of 2020 list: https://t.co/xJZFsPULcK
+- finished implementing code for ch7 DSFS; will ✍️ 🔑learning🧠 tmr
+- resume freecodecamp w/ prof Severance (shoulda done this yrs ago!) https://t.co/oD5WAA5aaj","2020-12-14 15:42 +0000","214.0","17.0","0.0794392523364486","0.0","1.0","3.0","0.0","0.0","0.0","6.0","0.0","0","0","0","0","0","7","7","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1338334274232098816","https://twitter.com/paulapivat/status/1338334274232098816","Learn more about the sunburstR package here: https://t.co/kvhUe7wDpT
+
+h/t @mbostock @kerryrodden and team","2020-12-14 04:05 +0000","303.0","11.0","0.036303630363036306","0.0","0.0","1.0","0.0","9.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1338334272311062529","https://twitter.com/paulapivat/status/1338334272311062529","What kind of creativity is being recognized in Syria? #TidyTuesday #rstats https://t.co/xLFJCiA6gN","2020-12-14 04:05 +0000","1129.0","40.0","0.0354295837023915","1.0","1.0","1.0","0.0","0.0","0.0","5.0","0.0","0","0","0","0","0","32","32","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1338334267319861250","https://twitter.com/paulapivat/status/1338334267319861250","How many women were recognized in the US for their knowledge? In what domain?
+#TidyTuesday #rstats https://t.co/lE3NbTk9xY","2020-12-14 04:05 +0000","1042.0","29.0","0.02783109404990403","1.0","1.0","3.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","24","24","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1338334260730548227","https://twitter.com/paulapivat/status/1338334260730548227","Or what specific form of leadership was recognized in Hong Kong? 
+#TidyTuesday #rstats https://t.co/JUOC0DeN2I","2020-12-14 04:05 +0000","944.0","15.0","0.015889830508474576","1.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","13","13","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1338334255793913856","https://twitter.com/paulapivat/status/1338334255793913856","You can pose specific questions like, what % of women from Asia were recognized for their leadership?
+#TidyTuesday #rstats https://t.co/sU6sYYITlO","2020-12-14 04:05 +0000","816.0","19.0","0.023284313725490197","1.0","1.0","1.0","2.0","0.0","0.0","3.0","0.0","0","0","0","0","0","11","11","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1338334251138215937","https://twitter.com/paulapivat/status/1338334251138215937","This past wk's #TidyTuesday features the BBC's 100 inspiring and influential women. Great opportunity to explore the sunburstR🌞📦 - for visualizing nested data. #rstats https://t.co/Th8uaeisxN","2020-12-14 04:05 +0000","6412.0","181.0","0.028228321896444166","4.0","1.0","5.0","2.0","6.0","0.0","44.0","0.0","0","0","0","0","0","119","119","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1337804251326676992","https://twitter.com/paulapivat/status/1337804251326676992","Day 20: #66daysofdata
+
+- explore 🐍 codebase for side project to add tracking code for Mixpanel
+- implement code for Data Sci frm Scratch ch7 (hypothesis testing) wip
+- worked on Circle packing data vis in R","2020-12-12 16:59 +0000","209.0","4.0","0.019138755980861243","0.0","1.0","2.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1337585907579277313","https://twitter.com/paulapivat/status/1337585907579277313","Big shout out to @R_Graph_Gallery  https://t.co/Jdg9ocrP2c for having the biggest impact on my #dataviz learning.  #rstats","2020-12-12 02:31 +0000","680.0","16.0","0.023529411764705882","2.0","0.0","2.0","2.0","5.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1337583965444558848","https://twitter.com/paulapivat/status/1337583965444558848","Is it just me or did Disney+ just go on a 25-2 run against Netflix?","2020-12-12 02:24 +0000","132.0","4.0","0.030303030303030304","0.0","0.0","1.0","0.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1337433941888753664","https://twitter.com/paulapivat/status/1337433941888753664","Day 19: #66daysofdata
+
+- working through Mixpanel implementation course https://t.co/2vUHxo2pAF for side project
+- explore circular packing from ggraph 📦 in R https://t.co/6eLynzomNL","2020-12-11 16:27 +0000","226.0","13.0","0.05752212389380531","0.0","1.0","2.0","1.0","3.0","0.0","0.0","0.0","0","0","0","0","0","6","6","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1337059648453668869","https://twitter.com/paulapivat/status/1337059648453668869","Day 18: #66daysofdata 
+
+- published Permutation in 🐍 https://t.co/VZvO8aGsl8
+
+- started Mixpanel Implementation (course) for a side-project; watched implementation overview. Deciding how to involve the rest of the team. 🤔 https://t.co/3zJkNisV3h","2020-12-10 15:40 +0000","251.0","7.0","0.027888446215139442","0.0","1.0","2.0","1.0","1.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1337011041620803584","https://twitter.com/paulapivat/status/1337011041620803584","This point here is resonating, not just reading multiple times, sometimes I gotta print() line by line, and if that doesn’t work, grab pen and paper https://t.co/Pjhdu6qRXQ","2020-12-10 12:27 +0000","141.0","2.0","0.014184397163120567","0.0","0.0","2.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1336970906661359616","https://twitter.com/paulapivat/status/1336970906661359616","Makes you wonder why the documentation isn't as simple as it *could* be. 🤔","2020-12-10 09:47 +0000","99.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1336970903834349568","https://twitter.com/paulapivat/status/1336970903834349568","Then I find @lebigot 's version on S/O, which is waaaay simpler: 
+
+https://t.co/6bjyWYVCM1","2020-12-10 09:47 +0000","97.0","3.0","0.030927835051546393","0.0","1.0","0.0","0.0","2.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1336970902043459584","https://twitter.com/paulapivat/status/1336970902043459584","Took me many hours to wrap my head around `itertools.permutations` (documentation version). I wondered if I just wasn't getting it. 
+
+https://t.co/PGgeHdvwRd","2020-12-10 09:47 +0000","39.0","1.0","0.02564102564102564","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1336970900332154881","https://twitter.com/paulapivat/status/1336970900332154881","Wrote about Permutation in Python @hashnode
+
+#2articles1week #python #datascience #statistics #mathematics 
+
+https://t.co/fvTRR4YX7p","2020-12-10 09:47 +0000","344.0","10.0","0.029069767441860465","2.0","2.0","2.0","0.0","2.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1336870274080239616","https://twitter.com/paulapivat/status/1336870274080239616","@sellorm I’ll run .py scripts in IPython (w virtual env) on my laptop. And with the Rstudio Python support, I’ll explore sharing code with Rmarkdown https://t.co/rnwPMUXj3s","2020-12-10 03:08 +0000","67.0","4.0","0.05970149253731343","0.0","0.0","2.0","1.0","1.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1336849366242394114","https://twitter.com/paulapivat/status/1336849366242394114","I wrote a function that did exactly this because I put 'return' in the wrong place 🐜💀 https://t.co/vvI7TawNuo","2020-12-10 01:45 +0000","161.0","9.0","0.055900621118012424","0.0","1.0","1.0","0.0","0.0","0.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1336713489335795712","https://twitter.com/paulapivat/status/1336713489335795712","Day 17: #66daysofdata
+
+- published Probability Distributions in Python: https://t.co/rFFwGE0Q5S
+- work-in-prog post on Permutations https://t.co/fK6zdi1hqM","2020-12-09 16:45 +0000","259.0","11.0","0.04247104247104247","0.0","1.0","3.0","0.0","4.0","1.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1336546555893960704","https://twitter.com/paulapivat/status/1336546555893960704","@sugarpirate_ Come for the project, stay for the people.","2020-12-09 05:41 +0000","69.0","1.0","0.014492753623188406","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1336491086336782336","https://twitter.com/paulapivat/status/1336491086336782336","@_johnmackintosh Thanks for pinging John!
+https://t.co/KyQ8XUKQ17","2020-12-09 02:01 +0000","29.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1336490974642491394","https://twitter.com/paulapivat/status/1336490974642491394","@sellorm I often share through blog posts (markdown).","2020-12-09 02:00 +0000","115.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1336490757482430467","https://twitter.com/paulapivat/status/1336490757482430467","@sellorm I've been using VS Code, conda virtual env and IPython as  my primary setup. However, i'll jump to Jupyter (thru anaconda distribution) if I need to do exploratory / visual heavy (but I'm often tempted to just use R/dplyr/ggplot2 in RStudio for those types of tasks).","2020-12-09 02:00 +0000","920.0","18.0","0.01956521739130435","2.0","2.0","3.0","2.0","0.0","0.0","9.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1336344876498096128","https://twitter.com/paulapivat/status/1336344876498096128","@mattyglesias Like for X, retweet for Y","2020-12-08 16:20 +0000","47.0","1.0","0.02127659574468085","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1336284176325099520","https://twitter.com/paulapivat/status/1336284176325099520","@Mon_Bennett8 Congrats on this milestone 🎉!","2020-12-08 12:19 +0000","61.0","3.0","0.04918032786885246","0.0","1.0","1.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1336221040695934978","https://twitter.com/paulapivat/status/1336221040695934978","@Melt_Dem Gotta have Goodbye Horses playing in the background","2020-12-08 08:08 +0000","168.0","2.0","0.011904761904761904","0.0","0.0","1.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1336161714945998855","https://twitter.com/paulapivat/status/1336161714945998855","After discrete, you can smoothly segue into continuous distributions.
+
+The lines are smoother, but the spirit is the same. The area under the curve - sum of all event's probability - is one. https://t.co/DxWu4IgqnO","2020-12-08 04:12 +0000","87.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1336161709845671936","https://twitter.com/paulapivat/status/1336161709845671936","The above 👆graph is a probability mass function - the probability of a four discrete events.
+
+Sometimes you'll want to see a cumulative distribution instead 👇 This allows you to quickly see the probability of 2 or more discrete events.
+
+In both cases, they add up to 1.0. https://t.co/BK1JVavUFb","2020-12-08 04:12 +0000","93.0","2.0","0.021505376344086023","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","1","1","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1336161704497967104","https://twitter.com/paulapivat/status/1336161704497967104","Discrete events are a fine place to start for understanding probability distributions. You can often count the number of discrete events in your situation 🧮🖐️.
+
+For example, in a medical diagnostic situation, there are four discrete outcomes: https://t.co/JB3HlgMuAD","2020-12-08 04:12 +0000","52.0","1.0","0.019230769230769232","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1336161700026875905","https://twitter.com/paulapivat/status/1336161700026875905","✍️Probability Distributions with Python: Discrete &amp; Continuous on @hashnode
+
+#2articles1week #pythonbeginner #python #datascience #statistics 
+
+https://t.co/lTsalnSqnN","2020-12-08 04:12 +0000","159.0","6.0","0.03773584905660377","2.0","1.0","2.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1335993918823956482","https://twitter.com/paulapivat/status/1335993918823956482","Day 16: #66daysofdata
+
+- ✍️putting my thoughts on Probability Distributions down https://t.co/iogFvNQkF8","2020-12-07 17:05 +0000","191.0","5.0","0.02617801047120419","0.0","1.0","2.0","0.0","1.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1335620093582045184","https://twitter.com/paulapivat/status/1335620093582045184","Day 15: #66daysofdata
+
+- using Python to build intuition around Bernoulli Trials, Binomial distribution
+- got familiar with mixpanel BI charting tool https://t.co/hNGcKqXdVv","2020-12-06 16:20 +0000","238.0","14.0","0.058823529411764705","0.0","1.0","2.0","0.0","0.0","0.0","5.0","0.0","0","0","0","0","0","6","6","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1335423085487378432","https://twitter.com/paulapivat/status/1335423085487378432","Just Day 2 of @monicalent 's email course and I learned something new - canonical links🔗, which is definitely helpful as I cross-post a ton.","2020-12-06 03:17 +0000","165.0","2.0","0.012121212121212121","0.0","0.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1335419039749816327","https://twitter.com/paulapivat/status/1335419039749816327","@lrettig to add: the centralization in normal orgs/companies makes governance, not easy, but easier. Establishing governance for decentralized networks is like ""herding cats"" expect there's no 'herder'. 
+
+Cats have to herd themselves. 😼","2020-12-06 03:01 +0000","114.0","4.0","0.03508771929824561","0.0","1.0","1.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1335396051767857153","https://twitter.com/paulapivat/status/1335396051767857153","This is a great 🧵 thread https://t.co/LQkLtolpHx","2020-12-06 01:30 +0000","85.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1335277559328620545","https://twitter.com/paulapivat/status/1335277559328620545","Day 14: #66daysofdata
+
+- read and watch some YT 📼 on Probability Mass Function, Cumulative Distri Funct learning; wip python implementation
+- Spending time on BI tools for a project: https://t.co/HXqc740Mh3 (next: pulling mixpanel data)","2020-12-05 17:39 +0000","222.0","7.0","0.03153153153153153","0.0","1.0","3.0","0.0","2.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1334896954430537730","https://twitter.com/paulapivat/status/1334896954430537730","Day 13: #66daysofdata 
+
+- (ch6. Data Science from Scratch): Working on understanding differences between Probability Density Function vs Cumulative Distribution Function for 🔔 curve https://t.co/dChjuHTJ9a","2020-12-04 16:26 +0000","212.0","7.0","0.0330188679245283","0.0","1.0","2.0","0.0","1.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1334856467195723776","https://twitter.com/paulapivat/status/1334856467195723776","Worth reading over. I haven’t seen this express so clearly anywhere. https://t.co/inRtNe6RXk","2020-12-04 13:45 +0000","1125.0","9.0","0.008","1.0","0.0","2.0","2.0","0.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1334828854607659012","https://twitter.com/paulapivat/status/1334828854607659012","@n_isama You now have a former mvp in Russ, how u feelin bout the trade?","2020-12-04 11:56 +0000","37.0","3.0","0.08108108108108109","0.0","1.0","0.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1334563808564576257","https://twitter.com/paulapivat/status/1334563808564576257","@dgkeyes Wanted to visualize data for a prospective client and had tried using JavaScript and web frameworks like React (not knowing that a better suited tool existed). I’m very very glad I found R","2020-12-03 18:23 +0000","74.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1334558692222455808","https://twitter.com/paulapivat/status/1334558692222455808","Day 12: #66daysofdata (2.0)
+
+- Worked on data visualization in R 
+- sharpening my data wrangling (dplyr) and visualization skills (ggplot2), handing date/time formatting
+
+https://t.co/iYdut9G8PA","2020-12-03 18:02 +0000","227.0","6.0","0.02643171806167401","0.0","1.0","2.0","0.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1334493923280998401","https://twitter.com/paulapivat/status/1334493923280998401","@iamericfletcher great to get R's historical context here, thx for posting!","2020-12-03 13:45 +0000","97.0","3.0","0.030927835051546393","0.0","1.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1334491016632524801","https://twitter.com/paulapivat/status/1334491016632524801","In my previous plot, I mistook ""City of Toronto"" for the actual city of Toronto 😅
+
+https://t.co/BVMP8BVXZk","2020-12-03 13:33 +0000","139.0","3.0","0.02158273381294964","0.0","0.0","0.0","3.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1334491014300483586","https://twitter.com/paulapivat/status/1334491014300483586","#TidyTuesday week 49 - exploring homeless shelters in Toronto by occupancy proportion 2017-2020
+
+#Rstats https://t.co/cTxLLjTORC","2020-12-03 13:33 +0000","4473.0","222.0","0.04963112005365526","5.0","1.0","14.0","9.0","0.0","3.0","33.0","0.0","0","0","0","0","0","157","157","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1334420483526205441","https://twitter.com/paulapivat/status/1334420483526205441","#TidyTuesday week 49 - exploring City of Toronto's homeless shelter occupancy 2017 - 2020 #rstats
+
+code: https://t.co/TYDg6CD7gz https://t.co/k1IpjvKZyx","2020-12-03 08:53 +0000","2833.0","125.0","0.04412283798093893","5.0","0.0","7.0","2.0","13.0","0.0","7.0","0.0","0","0","0","0","0","91","91","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1334335461003677698","https://twitter.com/paulapivat/status/1334335461003677698","@ashleybee94 @KenJee_DS is there international shipping? ✈️ asking for me, lol","2020-12-03 03:15 +0000","248.0","5.0","0.020161290322580645","0.0","1.0","2.0","2.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1334326226102542337","https://twitter.com/paulapivat/status/1334326226102542337","Adding to my evergreen tweet collection 🌲 https://t.co/EflDe9KrqJ","2020-12-03 02:38 +0000","105.0","3.0","0.02857142857142857","0.0","0.0","1.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1334113052472406018","https://twitter.com/paulapivat/status/1334113052472406018","Finally, I wrote an explainer here:
+
+https://t.co/wTCKPol9vJ","2020-12-02 12:31 +0000","81.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1334113050337558528","https://twitter.com/paulapivat/status/1334113050337558528","There's been variation of this question online in various places. Check out these resources, I learned something from everyone:
+
+@TeachTheMachine w/ https://t.co/ocimLxJ0cC
+@statsandr w/ https://t.co/lX3512ezRW
+@joelgrus in ch6 of Data Science from Scratch","2020-12-02 12:31 +0000","85.0","9.0","0.10588235294117647","0.0","1.0","1.0","2.0","3.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1334113048089436161","https://twitter.com/paulapivat/status/1334113048089436161","I found myself starting with pen and paper ✍️ https://t.co/Dec9sLymWG","2020-12-02 12:31 +0000","40.0","1.0","0.025","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1334113043408568320","https://twitter.com/paulapivat/status/1334113043408568320","Read the 🧵👆and you'll see some diverse views, but a general convergence on using Bayes.
+
+It's been interesting to see different approaches to this problem. @karpathy used code to build intuition.
+
+https://t.co/4FRQVyA41Y
+
+#python","2020-12-02 12:31 +0000","64.0","5.0","0.078125","0.0","1.0","0.0","0.0","0.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1334113040900317186","https://twitter.com/paulapivat/status/1334113040900317186","Looking for a quick dive into Bayes' Theorem? This poll from @3blue1brown is a motivating spark 💥
+
+https://t.co/nchxiyfCTs
+
+#statstwitter","2020-12-02 12:31 +0000","274.0","8.0","0.029197080291970802","1.0","1.0","0.0","0.0","1.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1334100736372658177","https://twitter.com/paulapivat/status/1334100736372658177","This puts things into perspective. https://t.co/JadrzjEm1t","2020-12-02 11:42 +0000","86.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1334035285013774337","https://twitter.com/paulapivat/status/1334035285013774337","Day 11: #66daysofdata (2.0)
+
+- published Bayes' write-up from yesterday (w/ 🐍 code): https://t.co/kcIK6P3JKc
+- continuing ch6. Data Science from Scratch (continuous, normal distribution, central limit theorem)","2020-12-02 07:22 +0000","212.0","7.0","0.0330188679245283","0.0","1.0","3.0","0.0","2.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1334033057595068416","https://twitter.com/paulapivat/status/1334033057595068416","context:
+
+https://t.co/nchxiyfCTs","2020-12-02 07:14 +0000","92.0","3.0","0.03260869565217391","0.0","0.0","0.0","0.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1334032844700540928","https://twitter.com/paulapivat/status/1334032844700540928","Bayes Application &amp; Code: A Medical Diagnostic Scenario
+on @hashnode
+
+#2articles1week1 #python #bayes #datascience #machinelearning 
+
+https://t.co/ftbmezqrZ2 
+
+h/t to @3blue1brown for the tweet that inspired this post the other day!","2020-12-02 07:13 +0000","227.0","24.0","0.10572687224669604","1.0","1.0","3.0","6.0","2.0","0.0","11.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1334016290755727360","https://twitter.com/paulapivat/status/1334016290755727360","I'm publicly committing to the #2Articles1Week writing challenge by @hashnode.
+
+Learn more and join me 👇
+https://t.co/h4kMhfvQCs 
+
+#2Articles1Week #Hashnode","2020-12-02 06:07 +0000","260.0","4.0","0.015384615384615385","0.0","1.0","1.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1333832475957620736","https://twitter.com/paulapivat/status/1333832475957620736","Day 10: #66daysofdata (2.0)
+
+- ✍️Write up of Bayes' application to a medical diagnostic scenario. 
+- Work in progress: https://t.co/PUduoX2F1S
+- polished draft tomorrow","2020-12-01 17:56 +0000","205.0","4.0","0.01951219512195122","0.0","1.0","2.0","0.0","1.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1333816946341515264","https://twitter.com/paulapivat/status/1333816946341515264","@Nicolascole77 💯 agree.
+
+I think what people imply with 'backed by' is 'government will accept/recognize/legitimize' and I then have to bring up Venezuela (or another failed state)...and i get blank stares because we're not *living in* Venezuela.","2020-12-01 16:55 +0000","21.0","2.0","0.09523809523809523","0.0","1.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1333812551436566528","https://twitter.com/paulapivat/status/1333812551436566528","@Nicolascole77 The gold comparison is intuitive and effective. 
+
+What I find challenging is when the question of ""but what is it 'backed' by"" invariably arises as this requires questioning assumptions.","2020-12-01 16:37 +0000","31.0","3.0","0.0967741935483871","0.0","2.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1333664720633561088","https://twitter.com/paulapivat/status/1333664720633561088","I fully support @patpichatan and other journalist covering 🇹🇭  authoritarian govt https://t.co/cYoTIuAoPS","2020-12-01 06:50 +0000","274.0","4.0","0.014598540145985401","0.0","0.0","1.0","1.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1333610172640444422","https://twitter.com/paulapivat/status/1333610172640444422","@Nicolascole77 how do you explain btc/eth to relatives during thanksgiving?","2020-12-01 03:13 +0000","154.0","5.0","0.032467532467532464","0.0","2.0","0.0","1.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1333604267341475841","https://twitter.com/paulapivat/status/1333604267341475841","Very inspiring 🙏 https://t.co/5vZhtauQwk","2020-12-01 02:50 +0000","122.0","1.0","0.00819672131147541","0.0","0.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"

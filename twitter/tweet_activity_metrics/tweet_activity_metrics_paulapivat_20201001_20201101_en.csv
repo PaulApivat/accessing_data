@@ -1,0 +1,454 @@
+"Tweet id","Tweet permalink","Tweet text","time","impressions","engagements","engagement rate","retweets","replies","likes","user profile clicks","url clicks","hashtag clicks","detail expands","permalink clicks","app opens","app installs","follows","email tweet","dial phone","media views","media engagements","promoted impressions","promoted engagements","promoted engagement rate","promoted retweets","promoted replies","promoted likes","promoted user profile clicks","promoted url clicks","promoted hashtag clicks","promoted detail expands","promoted permalink clicks","promoted app opens","promoted app installs","promoted follows","promoted email tweet","promoted dial phone","promoted media views","promoted media engagements"
+"1322569641961558016","https://twitter.com/paulapivat/status/1322569641961558016","Day 55: 
+
+- learned how to use the `assert` for testing 🐍 code and testing out an Object, ✍️ here: https://t.co/Y9AetYRAFx
+- learned about Lazy Evaluation in #python, ✍️ here: https://t.co/hRKa6qh8B9
+
+#66daysofdata","2020-10-31 16:02 +0000","320.0","11.0","0.034375","1.0","2.0","5.0","0.0","1.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1322541126545387520","https://twitter.com/paulapivat/status/1322541126545387520","I wrote about 🐍 Object-Oriented Programming w/ Testing (assert)
+ @hashnode
+
+#python #datascience #66daysofdata
+
+https://t.co/Y7ebrYS8Fb","2020-10-31 14:09 +0000","127.0","7.0","0.05511811023622047","1.0","0.0","6.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1322346144999993345","https://twitter.com/paulapivat/status/1322346144999993345","🎃🎃🎃Happy Halloween everyone 🎃🎃🎃 https://t.co/OIbigT6TYl","2020-10-31 01:14 +0000","99.0","3.0","0.030303030303030304","0.0","0.0","0.0","0.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1322330258494771200","https://twitter.com/paulapivat/status/1322330258494771200","@rachsyme Interstellar - several scenes in that movie are really affecting. Visually, i'm floored. Conceptually, i'm floored.","2020-10-31 00:11 +0000","85.0","1.0","0.011764705882352941","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1322227179833286657","https://twitter.com/paulapivat/status/1322227179833286657","Day 54:
+
+- learned about Control Flow &amp; Truthiness https://t.co/tnI1p3rhEn
+- learned about List Comprehensions https://t.co/DJC6vNLsDC
+
+#66daysofdata","2020-10-30 17:21 +0000","256.0","11.0","0.04296875","1.0","1.0","4.0","0.0","2.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1322215411463585793","https://twitter.com/paulapivat/status/1322215411463585793","Thx @hashnode , List Comprehensions is next! https://t.co/8c3h72GtwG","2020-10-30 16:34 +0000","113.0","2.0","0.017699115044247787","0.0","0.0","1.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1322102867574972416","https://twitter.com/paulapivat/status/1322102867574972416","I wrote about Truthiness in 🐍 @hashnode 
+
+#pythonbeginner #python #python3 #datascience #machinelearning https://t.co/vbjaH88vLb","2020-10-30 09:07 +0000","111.0","4.0","0.036036036036036036","0.0","0.0","2.0","0.0","2.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1322041847359762433","https://twitter.com/paulapivat/status/1322041847359762433","@iamericfletcher Hi Eric, I wanted to get a quick sense so i went with 2018 TidyTuesday data. Here are the top-30 countries. I do want to do a choropleth map at some pt, but will take a bit longer. 
+
+I'll dwnload 2020 data n stitch together for updated view, thanks again for sharing! #RStats https://t.co/Y1BayDts4i","2020-10-30 05:05 +0000","684.0","27.0","0.039473684210526314","1.0","0.0","1.0","0.0","0.0","0.0","4.0","0.0","0","0","0","0","0","21","21","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1321849399660568578","https://twitter.com/paulapivat/status/1321849399660568578","Day 53:
+
+- 🐍 fundamentals continue
+- learned and wrote about `defaultdict` https://t.co/foKGWtA7Ui
+- wrote about Counters &amp; Sets https://t.co/VsM48pDmxa
+
+#66daysofdata","2020-10-29 16:20 +0000","161.0","7.0","0.043478260869565216","0.0","1.0","4.0","0.0","1.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1321805408516804608","https://twitter.com/paulapivat/status/1321805408516804608","@iamericfletcher Thanks Eric, I’m checking this out!","2020-10-29 13:25 +0000","47.0","2.0","0.0425531914893617","0.0","1.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1321799232353755137","https://twitter.com/paulapivat/status/1321799232353755137","Hi #rstats, is there data available on R's usage across countries? Would love to see this data.","2020-10-29 13:01 +0000","900.0","7.0","0.0077777777777777776","2.0","1.0","0.0","0.0","0.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1321738015731937281","https://twitter.com/paulapivat/status/1321738015731937281","Continuing on the data science from scratch theme, I wrote about: Counters &amp; Sets on @hashnode
+
+#pythonbeginner #python #python3 #datascience #machinelearning https://t.co/I0zPPlSlIW","2020-10-29 08:57 +0000","644.0","11.0","0.017080745341614908","3.0","0.0","3.0","0.0","2.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1321702249815400450","https://twitter.com/paulapivat/status/1321702249815400450","@sarah_edo Have u tried Uniqlo 👖 jeans? They’re like sweatpants","2020-10-29 06:35 +0000","90.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1321689975520325633","https://twitter.com/paulapivat/status/1321689975520325633","defaultdict
+{ by Paul Apivat Hanvongse } from @hashnode
+
+#python3 #pythonbeginner #datascience #machinelearning #python https://t.co/JvgFCmhiMK","2020-10-29 05:47 +0000","84.0","2.0","0.023809523809523808","0.0","0.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1321487717507624961","https://twitter.com/paulapivat/status/1321487717507624961","Day 52 cont:
+- published {reactable} 📦 R tutorial to Rpubs:
+https://t.co/m0B4GQCq7r
+
+#66daysofdata","2020-10-28 16:23 +0000","174.0","5.0","0.028735632183908046","0.0","1.0","3.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1321487715418796032","https://twitter.com/paulapivat/status/1321487715418796032","Day 52:
+
+- working thru defaultdict in 🐍
+- read through @KOrfanakis 's excellent kaggle notebook, very well explained EDA, feature engineering and modeling: https://t.co/5HvMHvOxxA 
+
+#66daysofdata","2020-10-28 16:23 +0000","171.0","7.0","0.04093567251461988","0.0","2.0","3.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1321372560534040577","https://twitter.com/paulapivat/status/1321372560534040577","@theSoshulXyntis oooh would love to see this when you're done!","2020-10-28 08:45 +0000","18.0","6.0","0.3333333333333333","0.0","1.0","1.0","4.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1321370356498591744","https://twitter.com/paulapivat/status/1321370356498591744","@theSoshulXyntis But 538 does use it to make predictions about team performance (which i'm skeptical of myself). The inner workings of the metric can be found here: https://t.co/5Vc03lDKV9","2020-10-28 08:36 +0000","24.0","2.0","0.08333333333333333","0.0","1.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1321370058677891072","https://twitter.com/paulapivat/status/1321370058677891072","@theSoshulXyntis I'd be remissed by not pointing out that 538's raptor paints a different picture than wins-above-replacement (gives edge to LBJ's 2009 &gt; MJ 1991). 
+
+To answer ur question: I think Raptor is primarily an individual +/- stat (doesn't account 4 team rankings). /1","2020-10-28 08:35 +0000","29.0","3.0","0.10344827586206896","0.0","1.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1321366544127909891","https://twitter.com/paulapivat/status/1321366544127909891","Back to #rstats, i'm continually amazed at how easy it is to share your work in the @rstudio ecosystem. I created an Rmarkdown file for the contest and very seamlessly published on RPubs - the experience was 👨‍🍳😘","2020-10-28 08:21 +0000","937.0","8.0","0.008537886872998933","3.0","0.0","1.0","0.0","0.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1321366542513180672","https://twitter.com/paulapivat/status/1321366542513180672","On the 🏀 front, w LBJ's recent 4th NBA title, the 🐐 debates have resumed. If u look at wins above replacement (WAR), there are 7 MJ seasons in the top ten, but don't forget that the playoffs are a different beast - looking at Playoff WAR - LBJ's case is stronger.
+
+#NBATwitter","2020-10-28 08:21 +0000","165.0","7.0","0.04242424242424243","0.0","2.0","1.0","1.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1321366540420149249","https://twitter.com/paulapivat/status/1321366540420149249","I just published Top-100 Vintage NBA Seasons with {reactable} 📦. In this tutorial, I walk users through a fresh makeover 538's NBA statistic - RAPTOR. 🧵👇
+
+https://t.co/tQq9p7p7UV
+
+#rstats https://t.co/jWM8sJYylt","2020-10-28 08:21 +0000","905.0","79.0","0.08729281767955802","4.0","1.0","6.0","3.0","10.0","0.0","18.0","0.0","0","0","0","0","0","37","37","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1321101200830287873","https://twitter.com/paulapivat/status/1321101200830287873","Day 51:
+
+- Wrote about 🐍 Dictionaries &amp; Tuples, Data Science from Scratch ch2 https://t.co/LzjISxVrxZ
+- Also, interesting to note that fifty days into #66daysofdata, youtube algo finally recommending: Raymond Hettinger 
+
+#66daysofdata","2020-10-27 14:47 +0000","138.0","6.0","0.043478260869565216","0.0","1.0","2.0","0.0","1.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1320782083531309056","https://twitter.com/paulapivat/status/1320782083531309056","Day 50 cont:
+- document learning: https://t.co/pzuWQ9ICHA 
+- will continue exploring lists vs numpy array further tmr
+
+#66daysofdata","2020-10-26 17:39 +0000","168.0","3.0","0.017857142857142856","0.0","1.0","2.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1320782081656434688","https://twitter.com/paulapivat/status/1320782081656434688","Day 50:
+
+- DataSci frm Scratch (ch2), compare &amp; contrast Lists &amp; NumPy Array
+- sim: bracket ops, slice, in-operator chk membership, len(), unpacking
+- diff: numpy array turns mixed data types into strings; modify lists w .extend(), array w np.append(array, [1,2,3])
+
+#66daysofdata","2020-10-26 17:39 +0000","164.0","5.0","0.03048780487804878","0.0","1.0","2.0","2.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1320393237656334336","https://twitter.com/paulapivat/status/1320393237656334336","Day 49:
+
+- worked on a submission to RStudio's table contest (almost done!)
+- listen to @lefnire '  ML podcast guide (shallow algos) -excellent ""big picture, forest for the trees"" perspective - highly recommended ⭐️⭐️⭐️⭐️⭐️
+
+#66daysofdata 
+
+https://t.co/KJuIYK87Gk","2020-10-25 15:54 +0000","194.0","6.0","0.030927835051546393","0.0","1.0","3.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1319987506394218496","https://twitter.com/paulapivat/status/1319987506394218496","Day 48 cont:
+
+- I also write the same content on @hashnode and my own blog (to be platform agnostic)
+- Excited to have additional platform to share the learning✍️
+
+#66daysofdata 
+
+https://t.co/1M2XmZfRJp","2020-10-24 13:02 +0000","183.0","10.0","0.0546448087431694","0.0","1.0","2.0","1.0","0.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1319987504137654273","https://twitter.com/paulapivat/status/1319987504137654273","Day 48: 
+
+- Working thru ch2 Data Sci frm Scratch
+- covered strings🧵 &amp; exceptions❗️
+- explore additional platform to share my process
+- wrote abt virtual env, ipython, higher order functions, string and exceptions here @ThePracticalDev 
+
+https://t.co/r8XMVwVV91
+# 66daysofdata","2020-10-24 13:01 +0000","131.0","3.0","0.022900763358778626","0.0","1.0","0.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1319681308872732674","https://twitter.com/paulapivat/status/1319681308872732674","Day 47:
+
+- Working through ch2 Data Science from Scratch (dsfs)
+- exploring functions, higher order f(x), lambda functions f(x), default arguments.
+- wrote about it here (work-in-prog):
+
+#66daysofdata 
+
+https://t.co/pzuWQ9ICHA","2020-10-23 16:45 +0000","155.0","7.0","0.04516129032258064","0.0","1.0","3.0","0.0","1.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1319654827836649473","https://twitter.com/paulapivat/status/1319654827836649473","So glad the youtube algorithm helped me find this: https://t.co/5RJQBVPWTh","2020-10-23 15:00 +0000","105.0","9.0","0.08571428571428572","0.0","0.0","1.0","0.0","5.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1319316323663425537","https://twitter.com/paulapivat/status/1319316323663425537","Day 46 cont:
+
+- finally go around to opening jupyter notebooks in @code , nice change of pace 
+- DS from Scratch nudging me out of jupyter📓 comfort zone already
+
+#66daysofdata","2020-10-22 16:34 +0000","203.0","17.0","0.08374384236453201","0.0","1.0","4.0","1.0","0.0","0.0","11.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1319316321150988289","https://twitter.com/paulapivat/status/1319316321150988289","Day 46:
+
+- work on  🏀NBA viz with reactable📦
+- working through ch2 DS from Scratch, 
+- crash course functions: eager to see higher-order functions, lambda, default arg  in a DS/ML context
+- fell dwn 🐰hole on installing shell in vscode 
+
+https://t.co/GZInExWi2q
+
+#66daysofdata","2020-10-22 16:34 +0000","221.0","8.0","0.03619909502262444","0.0","1.0","5.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1319241532054982656","https://twitter.com/paulapivat/status/1319241532054982656","@KenJee_DS @KOrfanakis @jaimedatalatte I’m gonna need many more XdaysOfData 😁","2020-10-22 11:37 +0000","40.0","1.0","0.025","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1319097010612436992","https://twitter.com/paulapivat/status/1319097010612436992","@jasondotgov https://t.co/07tNsvRzlk","2020-10-22 02:03 +0000","375.0","34.0","0.09066666666666667","0.0","0.0","6.0","1.0","0.0","0.0","6.0","0.0","0","0","0","0","0","141","21","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318962815370031105","https://twitter.com/paulapivat/status/1318962815370031105","@adnildyob @jimmy_wales https://t.co/z3nTyEW1IQ","2020-10-21 17:10 +0000","59.0","5.0","0.0847457627118644","0.0","0.0","0.0","2.0","0.0","0.0","1.0","0.0","0","0","0","0","0","14","2","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318950926921576448","https://twitter.com/paulapivat/status/1318950926921576448","Day 45 cont:
+
+Set up virtual env to work thru @joelgrus' Data Science from Scratch. 
+- learned it was good practice to always work in a virtual environment and never use 'base' 🐍 installation
+- followed ch2 and had relatively painless installation process 👇
+
+#66daysofdata https://t.co/w6n5YFuALT","2020-10-21 16:23 +0000","202.0","10.0","0.04950495049504951","0.0","1.0","1.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","6","6","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318928216619241472","https://twitter.com/paulapivat/status/1318928216619241472","@xcud @py_data_sci @markdown TIL markdown has its own Twitter acct","2020-10-21 14:52 +0000","35.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318896878642106368","https://twitter.com/paulapivat/status/1318896878642106368","Re-watching The Last Dance, just saw a great example of  data for storytelling..... not a single chart was needed. 
+
+#thelastdance #dataviz #rstats #python https://t.co/vF3YQMZNZp","2020-10-21 12:48 +0000","1260.0","95.0","0.07539682539682539","1.0","0.0","6.0","1.0","0.0","2.0","10.0","0.0","0","0","0","0","0","75","75","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318894720316182529","https://twitter.com/paulapivat/status/1318894720316182529","This looks 🔥🔥🔥 https://t.co/Clmp9jzqjH","2020-10-21 12:39 +0000","143.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318881188077948929","https://twitter.com/paulapivat/status/1318881188077948929","@SaksithCNA ‘Adults’ finding new lows in 2020 🤦🏻‍♂️","2020-10-21 11:45 +0000","238.0","2.0","0.008403361344537815","0.0","0.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318832251077939200","https://twitter.com/paulapivat/status/1318832251077939200","Day 45:
+
+I recap the past 44 days of my #66daysofdata
+
+Details here: https://t.co/TFwRFDlXiy","2020-10-21 08:31 +0000","224.0","7.0","0.03125","0.0","1.0","2.0","0.0","0.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318831870600048641","https://twitter.com/paulapivat/status/1318831870600048641","5/ until you've got the fundamentals down (shallow algorithms before deep learning). This is much easier said than done - especially if you've paid 💰for a class. 
+
+For anyone new on their #ML #data journey, I share some resources here: https://t.co/CZIntRch6w
+
+#rstats #python","2020-10-21 08:29 +0000","681.0","20.0","0.02936857562408223","2.0","0.0","2.0","0.0","8.0","0.0","8.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318831868846907392","https://twitter.com/paulapivat/status/1318831868846907392","4/ ..until you want/need to know what goes under the hood.
+
+Another example of knowing how you best learn is knowing when a class is moving too fast and being ok going at your own pace. This means being ok falling behind ur peers or opting out of the fun stuff (deep learning)...","2020-10-21 08:29 +0000","132.0","1.0","0.007575757575757576","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318831867282419713","https://twitter.com/paulapivat/status/1318831867282419713","3/ Knowing ""how you learn best"" is noticing that you're not quite solid in your choices and realizing that the libraries you're using (scikit-learn, tensorflow, react or even tidyverse) help abstract away the complexities, but are not the best for *learning* and being ok with it.","2020-10-21 08:29 +0000","65.0","2.0","0.03076923076923077","0.0","1.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318831865717911557","https://twitter.com/paulapivat/status/1318831865717911557","2/ I'm a fan of  ☝️ and am loosely following for my own learning. 
+
+There is, however, a flip side to the top-down approach. At some point you're making adjustments to ML parameters without knowing why and getting the sensation that you're on shaky grounds...","2020-10-21 08:29 +0000","51.0","1.0","0.0196078431372549","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318831863746551808","https://twitter.com/paulapivat/status/1318831863746551808","1/ One thing I've noticed in the #datascience space is an awareness - among several writers - that if you're new to machine learning, it might be a good idea to purposely (and *just initially*) avoid the heavy math. This is illustrated in this post:
+
+https://t.co/WttkLJ9k4I","2020-10-21 08:29 +0000","173.0","10.0","0.057803468208092484","4.0","1.0","0.0","0.0","0.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318831862131740672","https://twitter.com/paulapivat/status/1318831862131740672","Given the wealth of resources out there to learn - just about anything - it's important to know ""how you learn best"". But it's not always clear what this means in practice. 
+
+🧵","2020-10-21 08:29 +0000","153.0","4.0","0.026143790849673203","0.0","1.0","1.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318773651504652292","https://twitter.com/paulapivat/status/1318773651504652292","Telegram today.
+
+Cryptography tomorrow. 
+
+#WhatsHappenningInThailand #III","2020-10-21 04:38 +0000","224.0","1.0","0.004464285714285714","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318771270788337664","https://twitter.com/paulapivat/status/1318771270788337664","@sethrosen Toyota : Tesla","2020-10-21 04:29 +0000","57.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318750174005534720","https://twitter.com/paulapivat/status/1318750174005534720","@RallidaeRule Here's my most recent TidyTuesday (edited after some helpful suggestions from Cedric) 
+
+code: https://t.co/uvG426XbYM
+
+https://t.co/OZzD8qMcqB","2020-10-21 03:05 +0000","271.0","8.0","0.02952029520295203","1.0","0.0","4.0","1.0","1.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318746516723363840","https://twitter.com/paulapivat/status/1318746516723363840","Glad to see 🇹🇭moving into the 21st century #WhatsHappeningInThailand https://t.co/5KUbPCoZaC","2020-10-21 02:50 +0000","202.0","6.0","0.0297029702970297","0.0","0.0","0.0","0.0","0.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318496671869718528","https://twitter.com/paulapivat/status/1318496671869718528","Day 44 cont:
+
+- Areas for further study:
+- data cleaning, preparation on: training, validation &amp; test set (was confused between how to handle these 3)
+- remember to create copy() throughout the process (still stumbling here)
+- separating features from target
+
+#66daysofdata","2020-10-20 10:17 +0000","206.0","15.0","0.07281553398058252","0.0","1.0","6.0","0.0","0.0","1.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318496669416091648","https://twitter.com/paulapivat/status/1318496669416091648","Day 44:
+
+- complete review of Housing Prices Competition, made another submission, but no dice🎲
+- gotta keep grinding
+
+#66daysofdata https://t.co/ysloa2ocnc","2020-10-20 10:17 +0000","183.0","8.0","0.04371584699453552","0.0","1.0","3.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","3","3","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318241084976230400","https://twitter.com/paulapivat/status/1318241084976230400","Day 43:
+
+- continue from yesterday - revisit Housing Prices Competition dataset, 
+- went through Data Cleaning (numeric and categorical data)
+- created transformation pipeline
+- after several hr, got an error - inconsistent numbers of sample
+- will retrace tomorrow
+
+#66daysofdata","2020-10-19 17:22 +0000","176.0","7.0","0.03977272727272727","0.0","1.0","4.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318154518845026304","https://twitter.com/paulapivat/status/1318154518845026304","Quantity precedes quality. https://t.co/C4vfxKKhfI","2020-10-19 11:38 +0000","108.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318151463109947392","https://twitter.com/paulapivat/status/1318151463109947392","@tomlincr @johanhilge Thanks Chris!","2020-10-19 11:26 +0000","46.0","1.0","0.021739130434782608","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318015683163090944","https://twitter.com/paulapivat/status/1318015683163090944","@SaksithCNA @BBCWorld @cnni @AJEnglish @TrueVisions so much of the local media is compromised. even my dad, a staunch physical-paper-newspaper supporter for decades, has cancelled his subscription to the Nation / Bangkok Post. Those brands are dead to me, too.","2020-10-19 02:26 +0000","737.0","23.0","0.031207598371777476","1.0","0.0","6.0","9.0","0.0","0.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1317859792170274816","https://twitter.com/paulapivat/status/1317859792170274816","Day 42:
+
+- revisit Housing Prices Competition dataset frm Kaggle to give it another go
+- reviewing learning from ch2 Hands-on-ML 
+- did exploratory analysis and stratified sampling for splitting training from testing data
+
+#66daysofdata","2020-10-18 16:07 +0000","211.0","4.0","0.018957345971563982","0.0","1.0","2.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1317504641987346432","https://twitter.com/paulapivat/status/1317504641987346432","Does anyone know what 👇 behavior in #python is called? Or is it simply ""lists are mutable types"" ?
+
+Coming from #rstats this is taking me a minute.
+
+source: 
+https://t.co/3dHdPHztwm https://t.co/0dbADehRGO","2020-10-17 16:35 +0000","1055.0","99.0","0.0938388625592417","3.0","3.0","3.0","2.0","4.0","1.0","40.0","0.0","0","0","0","0","0","43","43","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1317502996842868737","https://twitter.com/paulapivat/status/1317502996842868737","Day 41:
+
+- building a dashboard for online retail data using R
+- found this site: https://t.co/3dHdPHztwm
+- contains a helpful Note to #rstats users coming to 🐍 
+- specifically learning mutable vs immutable behavior and reference, very 👀 coming from R
+
+#66daysofdata","2020-10-17 16:29 +0000","637.0","14.0","0.02197802197802198","2.0","1.0","7.0","0.0","4.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1317483052595998720","https://twitter.com/paulapivat/status/1317483052595998720","I miss the mid-range game. #90s https://t.co/zYx3vAAmH0","2020-10-17 15:10 +0000","120.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1317154127818883072","https://twitter.com/paulapivat/status/1317154127818883072","Day 40:
+
+- stepped away from ML-related work today to visualize data with the {reactable} 📦
+- replicating a 538 table on greatest seasons in bball 🏀, sure to heat up the MJ vs LBJ debates - *work-in-progress*
+
+#66daysofdata https://t.co/0GE2geaciF","2020-10-16 17:23 +0000","412.0","18.0","0.043689320388349516","1.0","1.0","7.0","0.0","0.0","0.0","4.0","0.0","0","0","0","0","0","5","5","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1316939821999378432","https://twitter.com/paulapivat/status/1316939821999378432","@matloff @yudapearl If ML ppl examined the distribution of the test set to compare to the training set, would that be the way to go?","2020-10-16 03:11 +0000","204.0","4.0","0.0196078431372549","0.0","1.0","0.0","1.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1316746372909944833","https://twitter.com/paulapivat/status/1316746372909944833","@DavidJohnBaker @rstudio Saw this earlier, might be what you're looking for?
+
+https://t.co/8Cvvhsc68a","2020-10-15 14:22 +0000","225.0","6.0","0.02666666666666667","0.0","0.0","4.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1316671899968004096","https://twitter.com/paulapivat/status/1316671899968004096","Day 39 cont:
+
+Helpful to implement code to get a broad grasp (i understand about 50% of what's going on 😅)
+
+still hazy areas:
+- custom transformers
+- feature scaling
+- grid search &amp; randomized search
+- feature importance
+
+#66daysofdata 
+
+https://t.co/HZOWaSnEqA","2020-10-15 09:26 +0000","235.0","8.0","0.03404255319148936","1.0","1.0","4.0","0.0","1.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1316671897145282562","https://twitter.com/paulapivat/status/1316671897145282562","Day 39:
+
+- complete implementing code ch2 hands-on ML, incl: creating transformation pipeline to clean / prepare data, select &amp; train models (linear reg, decision tree, random forest)
+- fine-tune models w/ grid search
+- feature importance
+- will need to review
+
+#66daysofdata","2020-10-15 09:26 +0000","168.0","5.0","0.02976190476190476","1.0","1.0","3.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1316631342948347907","https://twitter.com/paulapivat/status/1316631342948347907","@Pestopublic @py_data_sci Would ‘DataFrame’ work?","2020-10-15 06:45 +0000","35.0","1.0","0.02857142857142857","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1316566136926822401","https://twitter.com/paulapivat/status/1316566136926822401","@Josh_Ebner as someone coming over from R, i've been looking for a pipe %&gt;% comparable, very neat to know that chaining is possible, provided we exploit Pandas methods - thanks for sharing🙏","2020-10-15 02:26 +0000","40.0","3.0","0.075","0.0","1.0","0.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1316561402874621953","https://twitter.com/paulapivat/status/1316561402874621953","@Josh_Ebner i guess you can't go wrong by favoring readability, even if its less popular.","2020-10-15 02:07 +0000","45.0","3.0","0.06666666666666667","0.0","2.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1316558200166969344","https://twitter.com/paulapivat/status/1316558200166969344","@Josh_Ebner im relatively new to python - would u say using query is the more ""pythonic"" way? (i keep hearing that term and semi-confused about whether there's actually consensus on what's pythonic or not). 
+
+also other people's code i read tends to use brackets (but query is more readable)","2020-10-15 01:55 +0000","42.0","4.0","0.09523809523809523","0.0","1.0","1.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1316523918493016064","https://twitter.com/paulapivat/status/1316523918493016064","@Josh_Ebner Nice, much more intuitive than brackets","2020-10-14 23:38 +0000","52.0","2.0","0.038461538461538464","0.0","1.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1316425656826118149","https://twitter.com/paulapivat/status/1316425656826118149","Day 38 cont:
+
+- One 🔑 takeaway: discussion on Scikit-Learn Design Principles: Estimators, Transformers, Predictors
+- Datasets represented as NumPy array or SciPy sparse matrices - this explains a lot of the output i've been seeing.
+-✍️ mental note: revisit Numpy
+
+#66daysofdata","2020-10-14 17:08 +0000","177.0","11.0","0.062146892655367235","1.0","1.0","6.0","0.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1316425653709725696","https://twitter.com/paulapivat/status/1316425653709725696","Day 38:
+
+- halfway implmt code in Ch2 of Hands-On Machine Learning (end-to-end ml project w/ California Housing data), 
+- download data, created test set, stratified sampling; 
+- EDA: visualize geo data,
+- Prep Data for ML, cleaning, handling text and categories
+
+#66daysofdata","2020-10-14 17:08 +0000","315.0","7.0","0.022222222222222223","3.0","1.0","2.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1316270521609195520","https://twitter.com/paulapivat/status/1316270521609195520","@thomasp85 reminds me of this scene https://t.co/q6r5JYYU29","2020-10-14 06:52 +0000","111.0","4.0","0.036036036036036036","0.0","0.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","36","3","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1316265778983825408","https://twitter.com/paulapivat/status/1316265778983825408","@patpichatan keep up the great reporting @patpichatan !!","2020-10-14 06:33 +0000","375.0","4.0","0.010666666666666666","0.0","0.0","1.0","0.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1316262667527491584","https://twitter.com/paulapivat/status/1316262667527491584","@AlbersonMiranda @rstatstweet Went thru a similar struggle and opted for Anaconda platform as a temporary solution","2020-10-14 06:20 +0000","68.0","3.0","0.04411764705882353","0.0","0.0","1.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1316042151218667521","https://twitter.com/paulapivat/status/1316042151218667521","Day 37:
+
+- Start Feature Engineering in Kaggle Learn,
+- constructing features from timestamps
+- trying to wrap my head around the difference between .fit(), .fit_transform() and .transform() from this s/o https://t.co/T2X5sEevrs
+
+#66daysofdata","2020-10-13 15:44 +0000","177.0","8.0","0.04519774011299435","0.0","1.0","5.0","0.0","1.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1315964665512386561","https://twitter.com/paulapivat/status/1315964665512386561","@CedScherer @UConnWBB Thanks for the suggestions @CedScherer 🙏 You're right its a better reflection of reality! https://t.co/pBKQgtFDTP","2020-10-13 10:36 +0000","87.0","28.0","0.3218390804597701","1.0","1.0","0.0","0.0","0.0","0.0","9.0","0.0","0","0","0","0","0","17","17","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1315690625388347399","https://twitter.com/paulapivat/status/1315690625388347399","Day 36:
+
+- work on a chatbot project: read Google's Cloud Talent Solution API documentation to understand how jobs and companies are created 
+-  fun fact🤓: the ML algo has been trained on data from  O*NET (occupational information network) https://t.co/YGKSmt88ii
+
+#66daysofdata","2020-10-12 16:27 +0000","304.0","9.0","0.029605263157894735","0.0","1.0","6.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1315326000389971968","https://twitter.com/paulapivat/status/1315326000389971968","Day 35:
+
+- spent the day learning about Microservices, Docker and Docker-Compose.
+- Not my fav topic, but I can see this being useful when getting into deployment and production. 
+- Will try to deploy an API endpoint for a Logistic Regression Classifier to heroku.
+
+#66daysofdata","2020-10-11 16:18 +0000","242.0","7.0","0.028925619834710745","0.0","1.0","5.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1315286396265877506","https://twitter.com/paulapivat/status/1315286396265877506","https://t.co/hGRt8XIyuE
+
+#RIPVanHalen","2020-10-11 13:41 +0000","82.0","1.0","0.012195121951219513","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","1","1","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1315286393841618945","https://twitter.com/paulapivat/status/1315286393841618945","🔥 These Jack White performances. 🔥
+https://t.co/1HfrlO7gv8
+
+#SNL","2020-10-11 13:41 +0000","298.0","11.0","0.03691275167785235","1.0","1.0","1.0","0.0","5.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1315267856234209281","https://twitter.com/paulapivat/status/1315267856234209281","@TheRewatchables how have you guys not done 'The Matrix' yet?","2020-10-11 12:27 +0000","6.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1315198877188853760","https://twitter.com/paulapivat/status/1315198877188853760","@reakal2 Is this the one you're referring to? 🙏https://t.co/EAiidKogSr","2020-10-11 07:53 +0000","22.0","3.0","0.13636363636363635","0.0","1.0","0.0","0.0","2.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1314969247265640448","https://twitter.com/paulapivat/status/1314969247265640448","Day 34 cont:
+
+documenting the learning here:
+https://t.co/TTdaRzSdJ8
+
+#66daysofdata","2020-10-10 16:41 +0000","169.0","6.0","0.03550295857988166","0.0","1.0","2.0","0.0","3.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1314969244820357120","https://twitter.com/paulapivat/status/1314969244820357120","Day 34:
+
+- learned how to create an API endpoint for a basic logistic regression classification model (using the Iris 🌸🌺🌷dataset)
+- so this is what ""ML as a service"" means 🤔; exciting to go through process of training model &amp; connect to an API. 
+
+#66daysofdata","2020-10-10 16:41 +0000","156.0","4.0","0.02564102564102564","0.0","1.0","3.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1314595281132900352","https://twitter.com/paulapivat/status/1314595281132900352","Day 33:
+
+- worked through first three lessons in Kaggle's Deep Learning course.
+- got enough of a preview to shelve this module for now and come back once the ML foundations are stronger.
+
+#66daysofdata","2020-10-09 15:55 +0000","202.0","8.0","0.039603960396039604","0.0","1.0","6.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1314542130241564672","https://twitter.com/paulapivat/status/1314542130241564672","@iamericfletcher @UConnWBB Here you go: https://t.co/uvG426XbYM
+
+The key for me was creating the 'z' column which was then used in the 2nd geom_ribbon. 
+
+This stack overflow was super helpful: https://t.co/KqB2bVUFeA","2020-10-09 12:24 +0000","147.0","29.0","0.19727891156462585","1.0","1.0","3.0","0.0","22.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1314477431483326464","https://twitter.com/paulapivat/status/1314477431483326464","And the best thing about #TidyTuesday are the plots we make along the way: https://t.co/JAWDJWVrci","2020-10-09 08:06 +0000","2445.0","158.0","0.06462167689161555","1.0","1.0","4.0","3.0","2.0","2.0","18.0","0.0","0","0","0","0","0","127","127","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1314469427195256833","https://twitter.com/paulapivat/status/1314469427195256833","As is often the case, I was inspired by @CedScherer 's plot and wanted to create something similar. 🙏","2020-10-09 07:35 +0000","168.0","3.0","0.017857142857142856","0.0","0.0","1.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1314469423265193985","https://twitter.com/paulapivat/status/1314469423265193985","Examining Sustained Excellence among the NCAA Women's College Basketball Programs 🏀🏀🏀 for #TidyTuesday. We can see why the fabled @UConnWBB is so high touted, being consistently great year after year since the early 90's.
+
+#RStats https://t.co/IJaDqXmq2L","2020-10-09 07:35 +0000","5775.0","433.0","0.07497835497835498","6.0","4.0","27.0","8.0","1.0","5.0","112.0","0.0","0","0","0","0","0","270","270","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1314214283513749504","https://twitter.com/paulapivat/status/1314214283513749504","@accidental__aRt in honor of the presidential debates, I present: https://t.co/hXDitVM46A","2020-10-08 14:41 +0000","44.0","5.0","0.11363636363636363","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","5","5","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1314096563031924737","https://twitter.com/paulapivat/status/1314096563031924737","Day 32 cont:
+
+tried apply Ch3. Hands-On ML Classification to 🚢
+
+- tried SGDClassifier model - performed worse 🔻
+- tried KNeighborsClassifier - performed worse 🔻
+- unable to calculate evaluation metrics 😅
+- Back to the drawing board,  will re-visit Ch3 again. 
+
+#66daysofdata","2020-10-08 06:53 +0000","221.0","8.0","0.03619909502262444","0.0","1.0","6.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1314096560876052489","https://twitter.com/paulapivat/status/1314096560876052489","Day 32:
+
+- revisit Titanic 🚢, add: missing values imputation for numerical and categorical variable
+- add: preprocessing and pipelines 👷
+- kept same RandomForestClassifier
+✅got a 0.02 score boost, i'll take it!
+
+#66daysofdata https://t.co/Xkk317udUN","2020-10-08 06:53 +0000","209.0","6.0","0.028708133971291867","0.0","1.0","5.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1314021815065350144","https://twitter.com/paulapivat/status/1314021815065350144","@SteveDX_ @rstatstweet I'm in the same boat; if it's data science / ML topics you're interested in, then I can recommend Kaggle's micro-courses (for quick crash course in Python and nice seque into ML)","2020-10-08 01:56 +0000","132.0","4.0","0.030303030303030304","1.0","0.0","2.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1313997360461094914","https://twitter.com/paulapivat/status/1313997360461094914","@AmstatNews The Significant Others","2020-10-08 00:19 +0000","190.0","3.0","0.015789473684210527","0.0","0.0","3.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1313879914341306368","https://twitter.com/paulapivat/status/1313879914341306368","This is cool, yay for interoperability 🤩 https://t.co/yUo3QKeGNp","2020-10-07 16:32 +0000","105.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1313874198339567620","https://twitter.com/paulapivat/status/1313874198339567620","Day 31:
+
+- practicing on large MNIST dataset was very slow on jupyter notebook
+- esp. SVM, but even KNN was extra slow
+- 🔑 was reduced training data size from 60k to 2k; validation data from 10k to 200 
+- negatively affected precision, but not recall 
+
+#66daysofdata","2020-10-07 16:09 +0000","245.0","9.0","0.036734693877551024","0.0","1.0","6.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1313874196422746112","https://twitter.com/paulapivat/status/1313874196422746112","Day 31:
+
+- implemented all code in Ch.3 Hands-On ML ""Classification""
+- train 🦾 stochastic (SGD), SVM, KNN classifier
+- calc🧮 cross-validation score, precision, recall, f-score, ROC/AUC
+- plot confusion matrix
+- still 😕 abt multiclass v multilable v multioutput 
+
+#66daysofdata","2020-10-07 16:09 +0000","198.0","6.0","0.030303030303030304","0.0","1.0","4.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1313831708127444993","https://twitter.com/paulapivat/status/1313831708127444993","@abhi1thakur btw, would it be possible to follow along (in code) using just a jupyter notebook? (or would you recommend being in ""ml environment""?)","2020-10-07 13:21 +0000","636.0","11.0","0.01729559748427673","0.0","1.0","2.0","0.0","0.0","0.0","8.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1313830647190810625","https://twitter.com/paulapivat/status/1313830647190810625","@abhi1thakur Thank you @abhi1thakur 🙏 ""If you didn't code, you didn't learn"" 💯","2020-10-07 13:16 +0000","686.0","13.0","0.018950437317784258","0.0","1.0","1.0","1.0","0.0","0.0","10.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1313515605585084416","https://twitter.com/paulapivat/status/1313515605585084416","Day 30:
+
+- read Ch.3 Hands-on ML ""Classification"". (Py)
+- learned {purrr} package (R) to unnest list of dataframes. 
+
+#66daysofdata","2020-10-06 16:24 +0000","154.0","5.0","0.032467532467532464","0.0","1.0","3.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1313160303614414848","https://twitter.com/paulapivat/status/1313160303614414848","shortly after its 35th bday, Excel gets dunked on by Data Twitter https://t.co/gKJU7q6nX6","2020-10-05 16:53 +0000","147.0","1.0","0.006802721088435374","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1312895068081012737","https://twitter.com/paulapivat/status/1312895068081012737","@SmashingPumpkin Wherever I was, I was frail and bedazzled","2020-10-04 23:19 +0000","24.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1312671419151441922","https://twitter.com/paulapivat/status/1312671419151441922","@paulg If you saw that your kid had this disinterested obsessiveness in something, would you try to nudge it towards something that matters? What if external nudging  turns off the obsessiveness?","2020-10-04 08:30 +0000","2829.0","14.0","0.00494874513962531","0.0","0.0","2.0","6.0","0.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1312662164092538880","https://twitter.com/paulapivat/status/1312662164092538880","I also recap some tweets, links, articles i've faved in the last month. Check out the post for more details: 
+
+https://t.co/gcMOYYpPRb
+
+Where ever you are in your own data journey, hit me up if you need help or get stuck or just wanna chat.","2020-10-04 07:53 +0000","89.0","4.0","0.0449438202247191","0.0","0.0","0.0","0.0","3.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1312662159168425986","https://twitter.com/paulapivat/status/1312662159168425986","I do aim to keep my #rstats / #rlang skills sharp and I've been exploring the awesome reactable 📦:
+
+I tried doing all of this in html, css, javascript and react at one point and it took waaay too long. https://t.co/bLHr0Fxw4i","2020-10-04 07:53 +0000","720.0","61.0","0.08472222222222223","1.0","1.0","1.0","2.0","0.0","0.0","22.0","0.0","0","0","0","0","0","34","34","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1312662152805666816","https://twitter.com/paulapivat/status/1312662152805666816","I have a running thread of more #python and #MachineLearning related progress here, shout out to @KenJee_DS  for #66daysofdata 
+
+https://t.co/mkU67m2aH4","2020-10-04 07:53 +0000","191.0","15.0","0.07853403141361257","1.0","1.0","8.0","0.0","0.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1312662149030797312","https://twitter.com/paulapivat/status/1312662149030797312","Here's my latest Kaggle milestone, but I know my ML knowledge is very superficial at this point, so i'm eager to start looking under the hood. https://t.co/FPhyQ0nOLw","2020-10-04 07:53 +0000","76.0","2.0","0.02631578947368421","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","1","1","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1312662141355212800","https://twitter.com/paulapivat/status/1312662141355212800","While I continue to love #dataviz I now want to get into modeling and #MachineLearning  Big thanks to @santiviquez for writing: https://t.co/WttkLJ9k4I
+
+This path of starting with a practical, concrete experience *before* theory and heavy math, resonates with me.","2020-10-04 07:53 +0000","79.0","6.0","0.0759493670886076","0.0","2.0","1.0","1.0","2.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1312662076658126848","https://twitter.com/paulapivat/status/1312662076658126848","My path started with #RStats and while R will always been my first 😍 too many teammates on various projects are #Python folks so I need to add it to my repertoire to collaborate.","2020-10-04 07:53 +0000","460.0","5.0","0.010869565217391304","1.0","2.0","0.0","2.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1312662059587235841","https://twitter.com/paulapivat/status/1312662059587235841","Here's a recap of my #DataScience  journey over the past 30 days 
+
+https://t.co/gcMOYYpPRb https://t.co/hFdLHR0gQD","2020-10-04 07:53 +0000","267.0","8.0","0.0299625468164794","1.0","1.0","1.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","3","3","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1312433327165460482","https://twitter.com/paulapivat/status/1312433327165460482","Day 29:
+
+- Worked thru data pipelines, cross-validation, xgboost and data leakage
+- @kaggle 's intro and intermediate ML courses are a great way to get a big picture perspective of training and evaluation models and submitting predictions to competitions. 
+
+#66daysofdata https://t.co/ey7XFiz5l4","2020-10-03 16:44 +0000","229.0","9.0","0.039301310043668124","0.0","1.0","4.0","0.0","0.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1312294444561915904","https://twitter.com/paulapivat/status/1312294444561915904","@ramonashelburne Your stories have the best angles. Also, we need another podcast series (loved the riveting Sterling Affairs series)","2020-10-03 07:32 +0000","6090.0","35.0","0.005747126436781609","2.0","0.0","18.0","6.0","0.0","0.0","9.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1312077285546053632","https://twitter.com/paulapivat/status/1312077285546053632","Day 28:
+
+- review intro &amp; missing values intermediate ML
+- working thru distinction btwn training, validation &amp; testing
+- completed Categorical Variables; preprocessing test data for Label Encoding (will try again tomorrow)
+- started freecodecamp 🐍 for Everybody
+
+#66daysofdata","2020-10-02 17:09 +0000","204.0","8.0","0.0392156862745098","1.0","1.0","4.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1312031799690752001","https://twitter.com/paulapivat/status/1312031799690752001","Happy birthday Excel. I knew you before I knew the internet. 🎉 https://t.co/gKJU7q6nX6","2020-10-02 14:08 +0000","117.0","5.0","0.042735042735042736","0.0","0.0","1.0","2.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1312026984763981824","https://twitter.com/paulapivat/status/1312026984763981824","@WeAreRLadies @rstatstweet If the tidyverse makes it feel like a breeze, just run with it, and come back to base R anytime.","2020-10-02 13:49 +0000","210.0","3.0","0.014285714285714285","0.0","0.0","1.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1311896960773677057","https://twitter.com/paulapivat/status/1311896960773677057","ya'll got any bleech? https://t.co/L8yYG0uhtm","2020-10-02 05:13 +0000","128.0","1.0","0.0078125","0.0","0.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1311871113400524800","https://twitter.com/paulapivat/status/1311871113400524800","@xieyihui @apreshill @kanishkamisra @jannikbuhr I read this thread, mildly panicked, I just served my site using blogdown::serve_site() and it appears to work fine","2020-10-02 03:30 +0000","168.0","2.0","0.011904761904761904","0.0","0.0","0.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1311852967973154817","https://twitter.com/paulapivat/status/1311852967973154817","@alyssastweeting @asmae_toumi I'd be interested in making something like this in R. I did a search on https://t.co/3msH5m1OnC for these two charts below and downloaded raw csv data. So i *think* the ingredients to re-create this in R are there. Would be happy to collaborate. https://t.co/iVMKh0eShe","2020-10-02 02:18 +0000","39.0","3.0","0.07692307692307693","0.0","0.0","1.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","1","1","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1311709961500590080","https://twitter.com/paulapivat/status/1311709961500590080","Day 27:
+
+- start Intermediate ML in kaggle
+- learned about handling missing in 🐍values with imputation (several strategies: mean, median, most-frequent and constant)
+- learned about parsing JSON in R with {jsonlite}📦
+
+#66daysofdata","2020-10-01 16:49 +0000","220.0","9.0","0.04090909090909091","0.0","1.0","6.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1311689961624629249","https://twitter.com/paulapivat/status/1311689961624629249","@presidual @asmae_toumi Thank you both 🙏","2020-10-01 15:30 +0000","42.0","1.0","0.023809523809523808","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1311673409898569728","https://twitter.com/paulapivat/status/1311673409898569728","@asmae_toumi Is there a basketball version of this?","2020-10-01 14:24 +0000","84.0","7.0","0.08333333333333333","0.0","2.0","0.0","1.0","0.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1311651069743656960","https://twitter.com/paulapivat/status/1311651069743656960","@omarsar0 Thx for the recommendation, will check it out!","2020-10-01 12:55 +0000","37.0","1.0","0.02702702702702703","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1311647514777452546","https://twitter.com/paulapivat/status/1311647514777452546","@nic__carter @wesyang You’re saying more fat tail than long tail, right?","2020-10-01 12:41 +0000","744.0","1.0","0.0013440860215053765","0.0","1.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1311645261672845313","https://twitter.com/paulapivat/status/1311645261672845313","@omarsar0 I started with R and am trying to incorporate Python into my toolkit as well. Anything you did in particular to allow you to pickup Python smoothly?","2020-10-01 12:32 +0000","1413.0","14.0","0.009907997169143666","0.0","1.0","2.0","0.0","0.0","0.0","11.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1311470166497058817","https://twitter.com/paulapivat/status/1311470166497058817","@Aaron_Horowitz @JacobKaplan19 I’d add to fundraising, issues of org effectiveness and exploring new income streams (but open question if that’s something data science can help with)","2020-10-01 00:57 +0000","61.0","1.0","0.01639344262295082","0.0","0.0","0.0","1.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
