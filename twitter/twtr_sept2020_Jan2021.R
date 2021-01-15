@@ -256,8 +256,26 @@ df %>%
     ) %>% 
     # fill = ..x.. allows colors to show up
     ggplot(aes(x = impressions, y = month, fill = ..x.., group = month)) +
-    geom_density_ridges_gradient(scale = 3, rel_min_height = 0.01, stat = 'density_ridges') +
-    scale_fill_viridis_c(option = 'C')
+    geom_density_ridges_gradient(scale = 3, 
+                                 rel_min_height = 0.01, 
+                                 stat = 'density_ridges', 
+                                 quantile_lines = TRUE,
+                                 quantiles = 2) +
+    scale_fill_viridis_c(option = 'C') +
+    theme_minimal() +
+    theme(
+        legend.position = 'none'
+    ) + 
+    labs(
+        title = "Twitter Impressions Over the Past Five Months",
+        subtitle = "Sept 2020 - Jan 2021",
+        caption = "Data & Visualization: @paulapivat",
+        y = "",
+        x = "Impressions"
+    )
+
+
+
 
 # Box Plot
 df %>%
@@ -265,10 +283,57 @@ df %>%
         month = month(Date, label = TRUE, abbr = TRUE)
     ) %>% 
     ggplot(aes(x = month, y = engagements, fill = month)) +
-    geom_boxplot()
+    geom_boxplot() +
+    scale_fill_viridis_d(option = "C") +
+    geom_jitter(color = 'black', size = 0.4, alpha = 0.9) +
+    theme_minimal() +
+    theme(
+        legend.position = 'none'
+    ) +
+    labs(
+        title = "Twitter Engagement Over the Past Five Months",
+        subtitle = "Sept 2020 - Jan 2021",
+        caption = "Data & Visualization: @paulapivat",
+        y = "Engagements",
+        x = ""
+    )
+
+# Violin
+df %>%
+    mutate(
+        month = month(Date, label = TRUE, abbr = TRUE)
+    ) %>% 
+    ggplot(aes(x = month, y = engagements, fill = month)) +
+    geom_violin()
 
 
+# Area Chart
+df %>%
+    ggplot() +
+    geom_area(aes(x = Date, y = engagements))
 
+
+# Area Chart by Group
+df %>%
+    mutate(
+        month = month(Date, label = TRUE, abbr = TRUE)
+    ) %>% 
+    ggplot(aes(x = Date, y = engagements, fill=month)) +
+    geom_area()
+
+# Stacked Area Chart
+df %>%
+    select(Date, 6:12) %>%
+    pivot_longer(cols = 2:8, names_to = 'metrics') %>%
+    ggplot(aes(x=Date, y=value, fill=metrics)) +
+    geom_area()
+
+# Stacked Area Chart (Percentage)
+df %>%
+    select(Date, 6:12) %>%
+    pivot_longer(cols = 2:8, names_to = 'metrics') %>%
+    ggplot(aes(x=Date, y=value, fill=metrics)) +
+    geom_area(position = 'fill')
 
 
 
