@@ -244,4 +244,24 @@ df %>%
         xlab = "Value"
     )
 
+# VISUALIZING ----
+library(ggridges)
+
+str(df)
+
+df %>%
+    mutate(
+        month = month(Date, label = TRUE, abbr = TRUE)
+    ) %>% 
+    # fill = ..x.. allows colors to show up
+    ggplot(aes(x = impressions, y = month, fill = ..x.., group = month)) +
+    geom_density_ridges_gradient(scale = 3, rel_min_height = 0.01, stat = 'density_ridges') +
+    scale_fill_viridis_c(option = 'C')
+
+
+
+
+
+
+
 
