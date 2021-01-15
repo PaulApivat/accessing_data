@@ -249,6 +249,7 @@ library(ggridges)
 
 str(df)
 
+# Ridge Plot
 df %>%
     mutate(
         month = month(Date, label = TRUE, abbr = TRUE)
@@ -258,7 +259,13 @@ df %>%
     geom_density_ridges_gradient(scale = 3, rel_min_height = 0.01, stat = 'density_ridges') +
     scale_fill_viridis_c(option = 'C')
 
-
+# Box Plot
+df %>%
+    mutate(
+        month = month(Date, label = TRUE, abbr = TRUE)
+    ) %>% 
+    ggplot(aes(x = month, y = engagements, fill = month)) +
+    geom_boxplot()
 
 
 
